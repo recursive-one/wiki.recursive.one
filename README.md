@@ -11,5 +11,5 @@ This is our [gitit]() powered Wiki.
 
 Here we are
 
-- [astynax](https://github.com/astynax) aka @[alex_pir](https://twitter.com/alex_pir)
-- [histrio](https://github.com/histrio)
+- [who/astynax]()
+- [who/histrio]()
