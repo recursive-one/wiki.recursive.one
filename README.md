@@ -1,2 +1,7 @@
+---
+title: Recursive Wiki
+...
+
 # wiki.recursive.one
-A Gitit powered Wiki
+
+This is our [gitit]() powered Wiki.
