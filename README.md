@@ -1,5 +1,6 @@
 ---
 title: Recursive Wiki
+toc: no
 ...
 
 # wiki.recursive.one
