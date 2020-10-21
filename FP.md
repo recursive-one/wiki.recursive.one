@@ -5,8 +5,9 @@ toc: no
 
 # Functional Programming
 
-I ([who/astynax]()) like Haskell, Elm, Clojure, Racket. That's why you are reading this Wiki as [gitit]() pages!
+I ([who/astynax]()) like FP: [Haskell](), [Elm](), [Clojure](), [Racket](). That's why our Wiki is running on [gitit]()!
 
 ```haskell
+-- | An infinite sequence of Fibonacci numbers
 fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 ```
