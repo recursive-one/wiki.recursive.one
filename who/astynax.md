@@ -5,7 +5,7 @@ toc: no
 
 # Aleksei "astynax" Pirogov
 
-Love computers, [FP](), [SciFi](), other geek stuff.
+Love computers, [/FP](), [/SciFi](), other geek stuff.
 
 ## Resources
 
