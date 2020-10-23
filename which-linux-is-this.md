@@ -1,5 +1,4 @@
 ---
-format: md
 categories: linux bash
 toc: no
 title: Which linux is this
