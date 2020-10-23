@@ -9,7 +9,7 @@ toc: no
 <td>
 ![](https://avatars3.githubusercontent.com/u/4694635?s=60 "That's my current userpic")
 </td><td>
-I love computers, SciFi ([Science Fiction]()), other geek stuff.
+I love computers, SciFi ([/Science Fiction]()), other geek stuff.
 
 Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]().
 </td></tbody></table>
