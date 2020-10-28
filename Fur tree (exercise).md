@@ -1,6 +1,6 @@
 ---
 title: The "Fur tree" exercise
-categories: fun
+categories: puzzle
 ...
 
 # The "Fur tree" exercise
