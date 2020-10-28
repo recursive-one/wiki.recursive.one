@@ -11,7 +11,7 @@ toc: no
 </td><td>
 I love computers, SciFi ([/Science Fiction]()), other geek stuff.
 
-Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]() (see [/astynax's setup]()).
+Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]() (see [/Setup (astynax)]()).
 </td></tbody></table>
 
 In this wiki I am usually writing about programming languages, OSes, coding [puzzles](/_category/puzzle "wiki category"). This is a *"Garden"* part of my [/Digital Garden](). Someday I put here the *"Stream"* part too :)
