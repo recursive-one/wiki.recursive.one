@@ -1,5 +1,6 @@
 ---
 toc: no
+categories: Linux
 ...
 
 # TLP
