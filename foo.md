@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bbb
-=======
-qux
->>>>>>> origin
+aaa
