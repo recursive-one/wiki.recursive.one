@@ -4,4 +4,6 @@ Here is my [dotfiles](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_direc
 
 ## Yadm
 
-For now I am organizing it with [Yadm](https://yadm.io/) and this way works perfectly fine for me. It is as simple as plain [/Git]() (Yadm stays on its shoulders). So I won't need to learn anything new just to do this important but a little tedious work. The one thing I need to worry about it is suitable `.gitignore`.
+I organize my dotfiles with [Yadm](https://yadm.io/). Yadm is as simple as plain [/Git]() (Yadm stays on its shoulders) so I won't need to learn anything new. There is one thing you usually need to tweak: the [suitable .gitignore](https://github.com/astynax/dotfiles/blob/master/.yadm/.gitignore). But Yadm has pretty useful defaults.
+
+The one feature that I didn't tested yet is secrets. Yadm can store them and decypher when it is necessary. But I am still have no need in such functionality.
