@@ -4,26 +4,12 @@ A highly subjective list of the items you may need on a simple camping trip.
 
 ## Disclaimers:
 
- - *This is not a necessary or sufficient list.* Used for self-examination, to avoid forgetting even basic items. 
+ - *This is not a necessary or sufficient list.* Me ([/who/histrio]()) used it for self-examination, to avoid forgetting even basic items. 
  - *Some items are optional for the weather or time of year.* 
  - *It was written for me and will likely not take into account your personal preferences.* However, corrections and additions are strongly welcomed.
  - *English is not my native language.* But I'll try.
 
-## Content 
-
-* [Navigation](#navigation-)
-* [Communication](#communication-)
-* [Illumination](#illumination-)
-* [Documents](#documents-)
-* [Bivouac](#bivouac-)
-* [Food](#food-)
-* [Clothes](#clothes-)
-* [First Aid](#first-aid-)
-* [Unsorted](#unsorted-)
-* [TODO](#todo-)
-* [Donts](#donts-)
-
-### Navigation [↑](#content)
+### Navigation
 
 *What will help you get to where you need. And back.*
 
@@ -31,12 +17,12 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] compass
 * [ ] gps-navigator*
 
-### Communication [↑](#content)
+### Communication
 
 * [ ] phone
 * [ ] walkie talkie
 
-### Illumination [↑](#content)
+### Illumination
 
 *What will help in the dark.*
 
@@ -44,7 +30,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] lamp (led, gas)
 * [ ] chemical light source
 
-### Documents [↑](#content)
+### Documents
 
 * [ ] any ID (laminated copy)
 * [ ] medical insurance
@@ -55,7 +41,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] wallet
 * [ ] stash separated from a wallet
 
-### Bivouac [↑](#content)
+### Bivouac
 
 *What will give you to move on.*
 
@@ -68,7 +54,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] bowler (cook pot)
 * [ ] metal cable / campfire tripod
 
-### Food [↑](#content)
+### Food
 
 *What gives energy.*
 
@@ -79,7 +65,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] tea brew (tea bags, large leaf)
 * [ ] kissel
 
-### Clothes [↑](#content)
+### Clothes
 
 * [ ] insoles
 * [ ] raincoat
@@ -93,7 +79,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] camp slippers
 * [ ] swimming suit
 
-### First Aid [↑](#content)
+### First Aid
 
 * [ ] dressings
   * adhesive plaster (bactericidal,  patches)
@@ -116,7 +102,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] remedies for diarrhea (Лоперамид, Денол)
 * [ ] specific 
 
-### Unsorted [↑](#content)
+### Unsorted
 
 *What doesn't fit in any other category*
 
@@ -150,7 +136,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] entertainment (harmonica, guitar, ukulele, etc.)
 * [ ] mirror (tiny and unbreakable)
 
-### TODO [↑](#content)
+### TODO
 
 *What would be nice to do in advance.*
 
@@ -164,7 +150,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] inform relatives or friends about the route 
 * [ ] distribute common equipment
 
-### DONTS [↑](#content)
+### DONTS
 
 *No. Don't do it *
 
