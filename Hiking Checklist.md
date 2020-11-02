@@ -161,7 +161,7 @@ A highly subjective list of the items you may need on a simple camping trip.
 * [ ] clean the pots
 * [ ] cash out
 * [ ] review the route
-* [ ] inform about the route to relatives or friends
+* [ ] inform relatives or friends about the route 
 * [ ] distribute common equipment
 
 ### DONTS [↑](#content)
