@@ -1,4 +1,4 @@
-# Awesome Hiking Checklist
+# Hiking Checklist
 
 A highly subjective list of the items you may need on a simple camping trip.
 
