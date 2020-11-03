@@ -31,6 +31,7 @@ To install any of the listed below tools you will need to run "`cargo install <n
 - [bb](https://github.com/epilys/bb) — simple process viewer
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
 - [meli](https://github.com/meli/meli) — terminal email client
+- [procs](https://github.com/dalance/procs) — modern replacement for ps
 
 ### Some aliases
 
