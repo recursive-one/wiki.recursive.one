@@ -1,12 +1,18 @@
+---
+toc: no
+...
+
 # Rust powered tools
 
-There are many projects those are proposing a nice alternatives to various command line tools like `grep` or `ls`. Many of them are written in [/Rust](). Here we have a list of such tools those we use ourself.
+<img style="background-color: white; float: right;" alt="Rust logo" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+
+There are many projects that are proposing nice alternatives to various command-line tools like *grep(1)* or *ls(1)*. Some of them are written in [/Rust](). Here we have a list of such tools those we use ourselves.
 
 ## How to
 
-Rust has own build tool called "cargo". When you are asking Cargo to install some *software* (not a library) it usually puts the executable binaries into `${HOME}/.cargo/bin`. So make sure what you have this directory in your `$PATH`.
+Rust has its own build tool called "cargo". When you are asking Cargo to install some *software* (not a library) it usually puts the executable binaries into "`${HOME}/.cargo/bin`". So make sure what you have this directory in your `$PATH`.
 
-To install any of listed below tools you will need to run `cargo install <name>`. But some projects also provide `.deb` packages or just the zipped binaries — take a look onto the repos.
+To install any of the listed below tools you will need to run "`cargo install <name>`". But some projects also provide `.deb` packages or just the zipped binaries — take a look at the repos.
 
 ## The tools
 
