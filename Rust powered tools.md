@@ -25,9 +25,9 @@ To install any of the listed below tools you will need to run "`cargo install <n
 - [fd](https://github.com/sharkdp/fd) — simple, fast and user-friendly alternative to *find(1)*
 - [just](https://github.com/casey/just) — very simple Makefile alternative
 - [alacritty](https://github.com/alacritty/alacritty) — terminal emulator
-- [dust](https://github.com/bootandy/dust) — more intuitive version of du in rust
+- [du-dust](https://github.com/bootandy/dust) — more intuitive version of du in rust
 - [drill](https://github.com/fcsonline/drill) — HTTP load testing application
-- [autojump-rs](https://github.com/xen0n/autojump-rs) — port of the wildly popular helper application [autojump](https://github.com/wting/autojump)
+- [autojump](https://github.com/xen0n/autojump-rs) — port of the wildly popular helper application [autojump](https://github.com/wting/autojump)
 - [bb](https://github.com/epilys/bb) — simple process viewer
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
 - [meli](https://github.com/meli/meli) — terminal email client
