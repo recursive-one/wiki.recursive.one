@@ -22,7 +22,7 @@ To install any of the listed below tools you will need to run "`cargo install <n
 - [exa](https://github.com/ogham/exa) — modern replacement for the venerable file-listing command-line program *ls(1)*
 - [ffsend](https://github.com/timvisee/ffsend) — fully featured Firefox Send client
 - [hyperfine](https://github.com/sharkdp/hyperfine) — command-line benchmarking tool.
-- [fd](https://github.com/sharkdp/fd) — simple, fast and user-friendly alternative to *find(1)*
+- [fd-find](https://github.com/sharkdp/fd) — simple, fast and user-friendly alternative to *find(1)*
 - [just](https://github.com/casey/just) — very simple Makefile alternative
 - [alacritty](https://github.com/alacritty/alacritty) — terminal emulator
 - [du-dust](https://github.com/bootandy/dust) — more intuitive version of du in rust
