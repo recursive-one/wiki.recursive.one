@@ -11,6 +11,8 @@ First option is to parse `/etc/os-release` file for `ID` and `VERSION_ID`. The p
 
 The second option is to handle `lsb_release` command output. The problem in this case that the command is not available by default and should be satisfied by installing additional packages. 
 
+Another option is a [/Python]()'s `platform` module. But there is no `linux_distribution` method after 3.7.  
+
 An `uname` tool is not able to provide a decent distro identification.  
 
 In the end, I have to combine all the above methods and fallback from one to another if something went wrong.
