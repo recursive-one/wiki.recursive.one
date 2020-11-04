@@ -18,24 +18,29 @@ To install any of the listed below tools you will need to run "`cargo install <n
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — very fast and [/Git]()-aware modern alternative to *grep(1)*
 - [bat](https://github.com/sharkdp/bat) — drop-in replacement for *cat(1)* with syntax highlighting, line numbering, diff preview
-- [tealdeer](https://github.com/dbrgn/tealdeer) — very fast implementation of [tldr](https://github.com/tldr-pages/tldr) 
 - [exa](https://github.com/ogham/exa) — modern replacement for the venerable file-listing command-line program *ls(1)*
-- [ffsend](https://github.com/timvisee/ffsend) — fully featured Firefox Send client
-- [hyperfine](https://github.com/sharkdp/hyperfine) — command-line benchmarking tool.
 - [fd-find](https://github.com/sharkdp/fd) — simple, fast and user-friendly alternative to *find(1)*
-- [just](https://github.com/casey/just) — very simple Makefile alternative
+- [just](https://github.com/casey/just) — very simple alternative to [/GNU Make]()
+- [du-dust](https://github.com/bootandy/dust) — more intuitive version of *du(1)* in rust
+- [procs](https://github.com/dalance/procs) — modern replacement for *ps(1)*
+
+## Not-so-replacements
+
+These projects don't pose itself as replacements for "good old Unix tools". But they also are built using Rust and we found it interesting :)
+
+- [tealdeer](https://github.com/dbrgn/tealdeer) — very fast implementation of [tldr](https://github.com/tldr-pages/tldr) 
+- [ffsend](https://github.com/timvisee/ffsend) — fully featured Firefox Send client
+- [hyperfine](https://github.com/sharkdp/hyperfine) — command-line benchmarking tool
 - [alacritty](https://github.com/alacritty/alacritty) — terminal emulator
-- [du-dust](https://github.com/bootandy/dust) — more intuitive version of du in rust
 - [drill](https://github.com/fcsonline/drill) — HTTP load testing application
 - [autojump](https://github.com/xen0n/autojump-rs) — port of the wildly popular helper application [autojump](https://github.com/wting/autojump)
 - [bb](https://github.com/epilys/bb) — simple process viewer
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
 - [meli](https://github.com/meli/meli) — terminal email client
-- [procs](https://github.com/dalance/procs) — modern replacement for ps
 
 ### Some aliases
 
-```
+```bash
 alias ll="exa --long"
 alias ls="exa"
 ```
