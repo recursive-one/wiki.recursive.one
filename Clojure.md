@@ -2,7 +2,7 @@
 toc: no
 ...
 
-[Clojure](https://clojure.org/) is language from the [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language) family. The language itself is very opinionated: a lot of design decisions were made by its author [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey). That's why most of clojurians don't have to "built a language for the domain" as it often happens with users of other lisps.
+[Clojure](https://clojure.org/) is language from the [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) family. The language itself is very opinionated: a lot of design decisions were made by its author [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey). That's why most of clojurians don't have to "built a language for the domain" as it often happens with users of other lisps.
 
 Clojure has a rich (ha-ha, Rich) standard library and gives to its user an ability to write *high-concurrent code* with ease. This simplicity of the concurrency model is possible because of the [/FP]()-first nature of language.
 
