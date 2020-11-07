@@ -7,7 +7,7 @@ I ([/who/histrio]()) have plenty of made-up reasons and excuses not to write som
 
 ## Vim
 
-For [/Vim] it will take no efforts. Just some config editing.
+For [/Vim]() it will take no efforts. Just some config editing.
 
 Auto save after timeout
 ```vimrc
