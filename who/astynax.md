@@ -5,14 +5,13 @@ toc: no
 
 # Aleksei "astynax" Pirogov
 
-<table><tbody><tr>
-<td>
-![](https://avatars3.githubusercontent.com/u/4694635?s=60 "That's my current userpic")
-</td><td>
+<img src="https://avatars3.githubusercontent.com/u/4694635?s=64" alt="My userpic for now" style="float: left; margin-right: 0.5em;">
+
 I love computers, SciFi ([/Science Fiction]()), other geek stuff.
 
 Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]() (see [/Setup (astynax)]()).
-</td></tbody></table>
+
+Like to make [/GUI]() apps, do some [/gamedev]() and digital art, that stuff.
 
 In this wiki I am usually writing about programming languages, OSes, coding [puzzles](/_category/puzzle "wiki category"). This is a *"Garden"* part of my [/Digital Garden](). Someday I put here the *"Stream"* part too :)
 
