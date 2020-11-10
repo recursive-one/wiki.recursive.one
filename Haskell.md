@@ -9,4 +9,5 @@ categories: Haskell
 
 ## Notable packages
 
-- [/Turtle (library)]()
+- [/Turtle (library)]() a shell scripting toolkit
+- [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui) a Web [/GUI]() framework with the [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming) taste 
