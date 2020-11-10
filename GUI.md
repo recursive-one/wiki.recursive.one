@@ -1,5 +1,6 @@
 ---
 title: Graphical User Interfaces
+categories: Haskell Python
 ...
 
 ## My experience
