@@ -10,11 +10,11 @@ Many projects are proposing nice alternatives to various command-line tools like
 
 ## How to
 
-Rust has its own build tool called "cargo". When you are asking Cargo to install some *software* (not a library) it usually puts the executable binaries into "`${HOME}/.cargo/bin`". So make sure what you have this directory in your `$PATH`.
+Rust has its own build tool and package manager called ["cargo"](https://doc.rust-lang.org/stable/cargo/). When you are asking Cargo to install some *software* (not a library) it usually puts the executable binaries into "`${HOME}/.cargo/bin`". So make sure what you have this directory in your `$PATH`.
 
 To install any of the listed below tools you will need to run "`cargo install <name>`". But some projects also provide `.deb` packages or just the zipped binaries — take a look at the repos.
 
-Also, some of the mentioned tools could be installed using [/asdf].
+Also, some of the mentioned tools could be installed using [/asdf]().
 
 ## The tools
 
@@ -25,6 +25,7 @@ Also, some of the mentioned tools could be installed using [/asdf].
 - [just](https://github.com/casey/just) — very simple alternative to [/GNU Make]()
 - [du-dust](https://github.com/bootandy/dust) — more intuitive version of *du(1)* in rust
 - [procs](https://github.com/dalance/procs) — modern replacement for *ps(1)*
+- [skim](https://github.com/lotabout/skim) - [fzf](https://github.com/junegunn/fzf)-like [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching) search and selection tool
 
 ## Not-so-replacements
 
