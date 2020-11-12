@@ -9,9 +9,7 @@ I ([/who/astynax]()) came to programming with a strong desire to make my own gam
 
 And I wasn't changed a lot during all these years: I still love to make a simple game and drop it unfinished :) I just love the process! One "game" I remade from time to time is [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): I implemented it about twenty times :)
 
-I like to play with some old-school stuff like **Pico-8** (a fantasy [video game console](https://en.wikipedia.org/wiki/Video_game_console)) and even have a [GameShell](https://www.clockworkpi.com/gameshell) with Pico-8 installed. That sort of minimalism amuses me a lot!
-
-Also, I want someday to make a game using [/Rust](): I lake the language and it has a couple of GameDev libraries.
+I like to play with some old-school stuff like **Pico-8** (a fantasy [video game console](https://en.wikipedia.org/wiki/Video_game_console)) and even have a [GameShell](https://www.clockworkpi.com/gameshell) with Pico-8 installed. That sort of minimalism amuses me a lot! I made [some](https://github.com/astynax/elm-safe) games with [/Elm]() and [/Haskell](). Also, I want someday to make a game using [/Rust](): I like the language plus it has a couple of GameDev libraries.
 
 ## Links
 
