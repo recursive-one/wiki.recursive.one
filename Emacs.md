@@ -17,6 +17,9 @@ The capstone of my config is the [use-package](https://github.com/jwiegley/use-p
 
 The [Org mode](https://orgmode.org/) - the main (and even *the only* for someone) reason to use Emacs. It is an IDE for notes, TODOs, agendas, contacts, writing, research. If I need to produce a good portion of text I am writing it in Org and then export it into the target format (Markdown, HTML, etc).
 
-## Magit
+[Org babel](https://orgmode.org/worg/org-contrib/babel/intro.html) I use to do some [/Literate programming]() or just to play with some HTTP APIs. For the later task I use [restlient.el](https://github.com/pashky/restclient.el)+[ob-restclient.el](https://github.com/alf/ob-restclient.el).
 
-[Magit](https://magit.vc/) - the one thing to doing Git. Just it.
+## Work with projects
+
+- [Magit](https://magit.vc/) - the one thing to doing Git
+- [projectile](https://docs.projectile.mx) - adds a project level to your buffers
