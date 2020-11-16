@@ -9,5 +9,15 @@ categories: Haskell
 
 ## Notable packages
 
-- [/Turtle (library)]() a shell scripting toolkit
-- [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui) a Web [/GUI]() framework with the [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming) taste 
+- [/Turtle (library)](), a shell scripting toolkit
+- [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui), a Web [/GUI]() framework with the [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming) taste
+- [/Shake (build system)]()
+- [propellor](https://propellor.branchable.com/), a configuration management system (does the same work that [/Ansible]() does)
+- [Hakyll](https://jaspervdj.be/hakyll/), a static site generation framework
+
+## Haskell powered software
+
+- [Xmonad](https://xmonad.org/), a [tiling window manager](https://en.wikipedia.org/wiki/Tiling_window_manager) 
+- [/pandoc](), an ultimate text conversion tool
+- [Shellcheck](https://www.shellcheck.net/), a tool that finds bugs in your shell scripts
+- [hadolint](https://github.com/hadolint/hadolint), a `Dockerfile` (for [/Docker]()) linter
