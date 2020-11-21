@@ -8,7 +8,7 @@ For many years the [/Linux]() is my main OS. On physical machines, I prefer the 
 
 ## Desktop Environment
 
-Just the [XFCE](https://xfce.org/) with the [/i3]() as a Window Manager. Most of the interactions with the OS I am doing with on-screen menus those I made myself with [/rofi]() and some [/Python]()-scripting (with my own [pyrofi](https://github.com/astynax/pyrofi) library). This setup is equally good for small laptop screens as for multi-display configurations.
+Just the [XFCE](https://xfce.org/) with the [/i3]() as a Window Manager. Most of the interactions with the OS I am doing with on-screen menus those I made myself with [/Rofi]() and some [/Python]()-scripting (with my own [pyrofi](https://github.com/astynax/pyrofi) library). This setup is equally good for small laptop screens as for multi-display configurations.
 
 ## Developer's Tools
 
