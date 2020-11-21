@@ -27,7 +27,7 @@ Nowadays I prefer to use [/Elm](). Though I always have in my pocket the [Threep
 
 ## Menus, dialogs
 
-When I don't need a full-featured GUI and some simple menu-like interface is enough I use the [/rofi]() with some Python scripting.
+When I don't need a full-featured GUI and some simple menu-like interface is enough I use the [/Rofi]() with some Python scripting.
 
 Sometimes I just need to show a simple confirmation window or a text entry. In such cases [/Zenity]() can be just good.
 
