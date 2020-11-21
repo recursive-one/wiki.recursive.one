@@ -1,0 +1,43 @@
+---
+toc: no
+...
+
+Rofi is a modern [dmenu](https://linux.die.net/man/1/dmenu) successor. Usually, it looks like an on-screen menu and helps to
+
+- switch windows quickly
+- launch programs
+- select stuff
+
+![Rofi in a window switching mode](https://davatorium.github.io/rofi/images/rofi/window-list.png)
+
+# Usage
+
+One can just pipe to Rofi some text strings and then select any of them using [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching). Rofi keeps selection history and makes future choices even quicker.
+
+That's how I use Rofi to switch between video outputs:
+
+```bash
+# files in ~/.screenlayout/ are profiles saved from arandr(1)
+ls -1 .screenlayout/*.sh | rofi -dmenu -p 'Screen Layout:' | xargs -r sh
+```
+
+# Menu-bases GUI
+
+I ([/who/astynax]()) have built a simple Python library named [pyrofi](https://github.com/astynax/pyrofi) to build user interfaces from nested menus.
+
+There are libraries that are way more powerful than mine. The [python-rofi-menu](https://github.com/miphreal/python-rofi-menu) for example. But I found it too complicated for my pretty simple cases: I just don't want to define a couple of classes to have a simple menu. So my pyrofi uses a single function call and a single data structure and all the program looks like that:
+
+```python
+run_menu({
+    'Calculator': ['xcalc'],
+    'Games': {
+        'Rogue': ['rogue'],
+        'Angband': ['angband']
+    },
+    'Calendar': ['ncal', '2020'],
+})
+```
+
+# Wofi
+
+[Wofi] is a clone of Rofi for the [Wayland](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol).
