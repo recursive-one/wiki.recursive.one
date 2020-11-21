@@ -19,14 +19,20 @@ I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a 
 
 Here is a nice but opinionated article about Tkinter: ["How to setup correctly an application with Python and Tkinter"](https://medium.com/@mattia512maldini/how-to-setup-correctly-an-application-with-python-and-tkinter-107c6bc5a45)
 
-Also, if you are a Pythonista take a look at [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI). It is a wrapper that helps to create Tk, Qt, and even the Web GUIs using a set of universal primitives. Code looks soo script'ish for me. But it is quite Ok when you want to make a prototype ASAP.
+Also, if you are a Pythonista take a look at [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI). It is a wrapper that helps to create Tk, Qt, and even the Web GUIs using a set of universal primitives. Code looks so script'ish for me. But it is quite Ok when you want to make a prototype ASAP.
 
 ## Web GUIs
 
 Nowadays I prefer to use [/Elm](). Though I always have in my pocket the [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui) (a [/Haskell]() library) if I will need to do some heavy lifting :)
 
-## Related stuff
+## Menus, dialogs
 
-### 7GUIs
+When I don't need a full-featured GUI and some simple menu-like interface is enough I use the [/rofi]() with some Python scripting.
+
+Sometimes I just need to show a simple confirmation window or a text entry. In such cases [/Zenity]() can be just good.
+
+# Related stuff
+
+## 7GUIs
 
 Recently I found a nice set of tasks that are testing how your favorite GUI toolkit capable to do the real work. Here it is: ["7GUIs: A GUI Programming Benchmark"](https://eugenkiss.github.io/7guis/). My advice: just scroll through the list of tasks and look to the last ones! :)
