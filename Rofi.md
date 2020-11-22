@@ -21,6 +21,12 @@ That's how I use Rofi to switch between video outputs:
 ls -1 .screenlayout/*.sh | rofi -dmenu -p 'Screen Layout:' | xargs -r sh
 ```
 
+And here is my "remote control" for the [/mpd]() (using `mpc`):
+
+```bash
+echo 'toggle\nnext\nprev\nplay\nstop' | rofi -dmenu -p 'MPD:' | xargs mpc
+```
+
 # Menu-bases GUI
 
 I ([/who/astynax]()) have built a simple Python library named [pyrofi](https://github.com/astynax/pyrofi) to build user interfaces from nested menus.
