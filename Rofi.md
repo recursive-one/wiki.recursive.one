@@ -12,6 +12,19 @@ Rofi is a modern [dmenu](https://linux.die.net/man/1/dmenu) successor. Usually, 
 
 # Usage
 
+```bash
+$ rofi -modi "window,run,ssh" -show run
+```
+
+- `-modi` enables some builtin "tabs", "window" stays for window switcher, "run" gives you a app launcher (any executable from `$PATH`), "ssh" selects the host to connect to
+- `-show` sets an active tab
+
+In "run" mode you can run the selected item in a *new shell window* buy pressing `<Shift>-<Return>` instead sole `<Return>`.
+
+There are many options for the look&feel and behavior customization. So just read `man rofi` :)
+
+# Custom menus
+
 One can just pipe to Rofi some text strings and then select any of them using [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching). Rofi keeps selection history and makes future choices even quicker.
 
 That's how I use Rofi to switch between video outputs:
