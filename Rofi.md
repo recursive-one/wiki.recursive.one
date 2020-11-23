@@ -40,6 +40,15 @@ And here is my "remote control" for the [/mpd]() (using `mpc`):
 echo 'toggle\nnext\nprev\nplay\nstop' | rofi -dmenu -p 'MPD:' | xargs mpc
 ```
 
+# User scripts
+
+Because Rofi is scriptable and you can define [custom modes](https://github.com/davatorium/rofi/wiki/mode-Specs) for it there are many ["user scripts"](https://github.com/davatorium/rofi/wiki/User-scripts) made by community:
+
+- password and bookmark managers
+- removable device switchers
+- desktop calculators
+- etc
+
 # Menu-bases GUI
 
 I ([/who/astynax]()) have built a simple Python library named [pyrofi](https://github.com/astynax/pyrofi) to build user interfaces from nested menus.
