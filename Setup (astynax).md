@@ -12,7 +12,7 @@ Just the [XFCE](https://xfce.org/) with the [/i3]() as a Window Manager. Most of
 
 ## Developer's Tools
 
-I use [/asdf]() to manage the languages I write in. It is just a time-saver: I don't need to remember how to use each of the version managers, how to update this or that. 
+I use [/asdf]() to manage the languages I write in. It is just a time-saver: I don't need to remember how to use each of the version managers, how to update the stuff. 
 
 I use [/Docker]() from time to time, but I prefer to not mix it with any orchestration tools, even with docker-compose: [/GNU Make]() is just enough to me for now. 
 
@@ -26,4 +26,4 @@ Also, I started a migration to the [/Nix (package manager)]() and now I use it t
 
 I love the GNU [/Emacs](). I'm not using it as OS (yet?), but Emacs is my IDE, note-taking app, GTD app (I'm not so into GTD, actually). An entire editor's ecosystem I did configure myself without [Spacemacs](https://spacemacs.org/), [DooM Emacs](https://github.com/hlissner/doom-emacs), or any other "build".
 
-Actually I am using [/Vim]() for quick and casual editing when I am working in the terminal. But I'm trying to switch to Emacs for such activities too... 
+Actually, I am using [/Vim]() for quick and casual editing when I am working in the terminal. But I'm trying to switch to Emacs for such activities too... 
