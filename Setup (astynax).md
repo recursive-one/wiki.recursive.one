@@ -12,11 +12,11 @@ Just the [XFCE](https://xfce.org/) with the [/i3]() as a Window Manager. Most of
 
 ## Developer's Tools
 
-I use [/asdf]() to manage the languages I write in. It is just a time-saver: I don't need to remember how to use each of the version managers, how to update this or that. Most of [/Rust powered tools]() I also install with *asdf*. 
+I use [/asdf]() to manage the languages I write in. It is just a time-saver: I don't need to remember how to use each of the version managers, how to update this or that. 
 
 I use [/Docker]() from time to time, but I prefer to not mix it with any orchestration tools, even with docker-compose: [/GNU Make]() is just enough to me for now. 
 
-Also, I want to adopt the [/Nix (package manager)]() package manager at least for [/Haskell] and other languages with explicit compilation.
+Also, I started a migration to the [/Nix (package manager)]() and now I use it to install [/Rofi](), `rq`/`ripgrep`/`bat`/.. (see [/Rust powered tools]()). It is pretty neat to be able to describe an entire package configuration with a single file!
 
 ## Programming Languages
 
