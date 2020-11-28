@@ -1,3 +1,7 @@
+---
+categories: Linux bash
+...
+
 [GNU Bash](https://github.com/secretGeek/ok-bash/) is a command shell for the [/Linux]() (and other OSes).
 
 I ([/who/astynax]()) am still using Bash as my main (and only?) shell even after I tried [/Zsh](), [fish](https://fishshell.com/) and some the others. Bash looks like a "boring" choice but I just know well how to cook it. Though, I prefer do not write bash-scripts: I just use [/Python]() or [/Haskell]()/[/Turtle (library)]() instead.
