@@ -17,19 +17,20 @@ $ ls | bb -i '(take 2 *input*)'
 ("CHANGES.md" "LICENSE")
 ```
 
-## Tools to start quickly
+# Tools to start quickly
 
 - [Leiningen](https://leiningen.org/), a popular all-in-one tool for project scaffolding, test running, dependency management
 - [nREPL](https://nrepl.org/), a "network REPL" (just keep in mind: Leiningen uses it implicitly)
 
-## Notable libraries
+# Notable libraries
 
 - [ring](https://github.com/ring-clojure/ring), an abstraction of HTTP server, the foundation for any WebApp
 - [compojure](https://github.com/weavejester/compojure), a routing DSL for Ring
 - [hiccup](https://github.com/weavejester/hiccup), a DSL for HTML templating
 - [Quil](http://quil.info/), a library for creating interactive drawings and animations (based on Processing)
+- [dali](https://github.com/stathissideris/dali), a hiccup-like DSL for creating the SVG graphics (also, dali can render SVG as PNG)
 
-## Interesting projects
+# Interesting projects
 
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - a parametrized split keyboard (Clojure program defines the 3D model)
 - [Overtone](https://overtone.github.io/) - an audio environment for music live-coding (I saw pretty impressive stuff made with it!)
