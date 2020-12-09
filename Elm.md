@@ -18,7 +18,8 @@ One can try the language or play with libraries inside [Ellie](https://ellie-app
 
 Here some stuff I have built
 
-- [Hekoish Watch](https://github.com/astynax/elm-hekoish-watch/) - a fullscreen watch (the cryptic one, actually). Live [demo](https://astynax.me/elm-hekoish-watch/),
+- [Hekoish Watch](https://github.com/astynax/elm-hekoish-watch/) - a fullscreen watch (the cryptic one, actually). Live [demo](https://astynax.me/elm-hekoish-watch/)
+- [/PixCell]() - a simplistic old-school PixelArt editor
 
 # Notable libraries
 
