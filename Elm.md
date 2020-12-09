@@ -8,7 +8,7 @@ toc: no
 
 Also, Elm is *self-contained*: it has its packaging system and compiler, no WebPack is needed. You are just writing a single file, call `elm make`, and getting the good old standalone HTML page!
 
-The language itself has a builtin framework, The Elm Architecture, that is very easy to learn and use. "Batteries included", you know! There are many libraries to use in Web UIs. I even made [one](https://github.com/astynax/tea-combine/) by myself - is is wierd but pretty usable though.
+The language itself has a built-in framework, The Elm Architecture, that is very easy to learn and use. "Batteries included", you know! There are many libraries to use in Web UIs. I even made [one](https://github.com/astynax/tea-combine/) by myself - it is weird but pretty usable though.
 
 # Ellie
 
@@ -19,11 +19,11 @@ One can try the language or play with libraries inside [Ellie](https://ellie-app
 Here some stuff I have built
 
 - [Hekoish Watch](https://github.com/astynax/elm-hekoish-watch/) - a fullscreen watch (the cryptic one, actually). Live [demo](https://astynax.me/elm-hekoish-watch/)
-- [/PixCell]() - a simplistic old-school PixelArt editor
+- [/PixCell]() - a simplistic old-school Pixel Art editor
 
 # Notable libraries
 
 - [mdgriffith/elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) - a rich WebGUI "toolkit"
 - [timjs/elm-collage](https://package.elm-lang.org/packages/timjs/elm-collage/latest/) - composable graphics library (I used it in my Hekoish Watch)
-- [elm/file](https://package.elm-lang.org/packages/elm/file/latest/) makes possible to download or upload a file using the web browser, works with text and binary files
+- [elm/file](https://package.elm-lang.org/packages/elm/file/latest/) makes it possible to download or upload a file using the web browser, works with text and binary files
 - [justgook/elm-image](https://package.elm-lang.org/packages/justgook/elm-image/latest/) is able to manipulate the raster images (`.png`!) and convert them to/from `BASE64` or just bytes
