@@ -21,6 +21,8 @@ Features:
 
 # PixCell/Elm
 
-[This version](https://astynax.me/pixcell-elm/) works exclusively in your browser. You can save a standalone HTML page and use it offline!
+[This version](https://astynax.me/pixcell-elm/) works exclusively in your browser.
 
-File saving feature isn't implemented yet but I work on it :)
+This particular version's features:
+
+- Export to PNG
