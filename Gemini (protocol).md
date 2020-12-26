@@ -10,7 +10,15 @@ The full specification is available [here](https://gemini.circumlunar.space/docs
 
 # Resources
 
-[Gemini portal](https://portal.mozz.us/gemini/gemini.circumlunar.space) gives the ability to browse Gemini network using the Web-browser. But [there are](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/) many dedicated clients (like [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()) and other Gemini-related software. Gemini text can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode)
+[Gemini portal](https://portal.mozz.us/gemini/gemini.circumlunar.space) gives the ability to browse Gemini network using the Web-browser. But there are many dedicated clients like
+
+- [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()
+- [Xenia](https://gitlab.com/tslocum/xenia), a Gemini browser for [/Android]()
+- [diohsc](https://portal.mozz.us/gemini/gemini.thegonz.net/diohsc/), a terminal client written in [/Haskell]()
+
+Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/).
+
+Gemini text can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode)
 
 One can set up its own Gemini server (like Rust-powered [Pollux](https://git.sr.ht/~julienxx/pollux)) and have a personnel star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search).
 
