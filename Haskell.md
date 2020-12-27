@@ -7,6 +7,12 @@ categories: Haskell
 
 [Haskell](https://www.haskell.org/) is a pure-[/FP]() language I ([/who/astynax]()) really like and use in my projects. I write Haskell in the [/Emacs]() or just use the REPL.
 
+# How to get and use
+
+I use [ghcup](https://www.haskell.org/ghcup/) to get the [GHC compiler](https://www.haskell.org/ghc/) itself, the [Haskell Language Server](https://github.com/haskell/haskell-language-server), the [Cabal](https://cabal.readthedocs.io) tool.
+
+In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but nowadays I'm glad to use the Cabal. Someday, I may adopt the [/Nix (package manager)]() as a more predictable alternative/companion for Cabal.
+
 # Notable packages
 
 - [/Turtle (library)](), a shell scripting toolkit
@@ -15,6 +21,12 @@ categories: Haskell
 - [propellor](https://propellor.branchable.com/), a configuration management system (does the same work that [/Ansible]() does)
 - [Hakyll](https://jaspervdj.be/hakyll/), a static site generation framework
 - [HsLua](https://hackage.haskell.org/package/hslua), binding to [/Lua]() language. [Here](https://hslua.github.io/santas-little-lua-scripts.html) is a good intro and [here](https://github.com/hslua/hslua-examples) are nice examples of usage.
+
+# Online resources
+
+- [Hoogle](https://hoogle.haskell.org/) (or just `!hoogle` *bang* in the [/DuckDuckGo]()), the "search by types"
+- [https://packdeps.haskellers.com/reverse]() shows reverse dependencies for the Hackage's packages
+- [https://hackage-search.serokell.io/](), a `grep(1)` like search over Hackage
 
 # Haskell powered software
 
