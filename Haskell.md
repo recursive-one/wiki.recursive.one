@@ -11,6 +11,8 @@ categories: Haskell
 
 I use [ghcup](https://www.haskell.org/ghcup/) to get the [GHC compiler](https://www.haskell.org/ghc/) itself, the [Haskell Language Server](https://github.com/haskell/haskell-language-server), the [Cabal](https://cabal.readthedocs.io) tool.
 
+> Sometimes HLS wants from you to do some preparation if you are planning to use it with your projects. Usually, all you need is `hie.yaml` containing this "`cradle: {cabal: {}}`". For more info go to docs for [hie-bios](https://github.com/mpickering/hie-bios#cabal).
+
 In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but nowadays I'm glad to use the Cabal. Someday, I may adopt the [/Nix (package manager)]() as a more predictable alternative/companion for Cabal.
 
 # Notable packages
