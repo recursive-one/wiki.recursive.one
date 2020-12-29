@@ -11,7 +11,7 @@ categories: Haskell
 
 I use [ghcup](https://www.haskell.org/ghcup/) to get the [GHC compiler](https://www.haskell.org/ghc/) itself, the [Haskell Language Server](https://github.com/haskell/haskell-language-server), the [Cabal](https://cabal.readthedocs.io) tool.
 
-> Sometimes HLS wants from you to do some preparation if you are planning to use it with your projects. Usually, all you need is `hie.yaml` containing this "`cradle: {cabal: {}}`". For more info go to docs for [hie-bios](https://github.com/mpickering/hie-bios#cabal).
+> Sometimes HLS wants you to do some preparation if you are planning to use it with your projects. Usually, all you need is `hie.yaml` containing this "`cradle: {cabal: {}}`". For more info go to docs for [hie-bios](https://github.com/mpickering/hie-bios#cabal).
 
 In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but nowadays I'm glad to use the Cabal. Someday, I may adopt the [/Nix (package manager)]() as a more predictable alternative/companion for Cabal.
 
@@ -24,6 +24,8 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [Hakyll](https://jaspervdj.be/hakyll/), a static site generation framework
 - [HsLua](https://hackage.haskell.org/package/hslua), binding to [/Lua]() language. [Here](https://hslua.github.io/santas-little-lua-scripts.html) is a good intro and [here](https://github.com/hslua/hslua-examples) are nice examples of usage.
 - [QuickCheck](https://hackage.haskell.org/package/QuickCheck), the [famous](https://en.wikipedia.org/wiki/QuickCheck) property-based testing framework ([good intro](https://jesper.sikanda.be/posts/quickcheck-intro.html) to)
+- [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
+- [/haskell/servant](), a framework for HTTP APIs
 
 # Online resources
 
