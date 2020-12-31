@@ -12,3 +12,18 @@ The [servant](https://hackage.haskell.org/package/servant) library makes it poss
 - [/haskell/wai](), the Web Application Interface - a way to define Warp-handlers
 - [warp](https://hackage.haskell.org/package/warp), an embeddable Web-server
 - [servant-lucid](https://hackage.haskell.org/package/servant-lucid) makes the [lucid](https://hackage.haskell.org/package/lucid) templates "servant ready"
+
+# Cookbook
+
+### Redirect
+
+```haskell
+type FormPost = ... :> Verb 'POST 303 '[PlainText] (Redirect Text)
+type Redirect = Headers '[Header "Location" Link]
+
+-- ...
+post :: ... -> Handler (Redirect Text)
+post ... = do
+  -- ...
+  pure $ addHeader (safeLink ...) "ok"
+```
