@@ -19,7 +19,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 
 - [/Turtle (library)](), a shell scripting toolkit
 - [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui), a Web [/GUI]() framework with the [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming) taste
-- [/Shake (build system)]()
+- [Shake](https://shakebuild.com/), a declarative build system
 - [propellor](https://propellor.branchable.com/), a configuration management system (does the same work that [/Ansible]() does)
 - [Hakyll](https://jaspervdj.be/hakyll/), a static site generation framework
 - [HsLua](https://hackage.haskell.org/package/hslua), binding to [/Lua]() language. [Here](https://hslua.github.io/santas-little-lua-scripts.html) is a good intro and [here](https://github.com/hslua/hslua-examples) are nice examples of usage.
