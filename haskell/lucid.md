@@ -8,7 +8,7 @@ title: Lucid
 I found Lucid pretty concise and easy to use (alongside [/haskell/servant]() for example). You should write all the markup in [/Haskell]() but the whole process is pretty straightforward. There is no need for cycles or variable substitution because Lucid is an **eDSL** and all the code is just a bunch of function calls:
 
 ```haskell
-page :: Html a -> Html a
+page_ :: Html a -> Html a
 page_ inner_ = do
   doctype_
   head_ $ do
