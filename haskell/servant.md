@@ -11,7 +11,7 @@ The [servant](https://hackage.haskell.org/package/servant) library makes it poss
 - [servant-multipart](https://hackage.haskell.org/package/servant-multipart) handles form data and file uploading
 - [/haskell/wai](), the Web Application Interface - a way to define Warp-handlers
 - [warp](https://hackage.haskell.org/package/warp), an embeddable Web-server
-- [servant-lucid](https://hackage.haskell.org/package/servant-lucid) makes Licud templates ([/haskell/lucid]()) "servant ready"
+- [servant-lucid](https://hackage.haskell.org/package/servant-lucid) makes Lucid templates ([/haskell/lucid]()) "servant ready"
 
 # Cookbook
 
