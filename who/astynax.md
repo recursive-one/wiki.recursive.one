@@ -11,7 +11,7 @@ I love computers, SciFi ([/Science Fiction]()), other geek stuff.
 
 Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]() (see [/Setup (astynax)]()).
 
-Like to make [/GUI]() apps, do some [/gamedev]() and digital art, that stuff.
+Like to make [/GUI]() and [/CLI]() apps, do some [/gamedev]() and digital art, that stuff.
 
 Also, I love to solder things from time to time, to do some microcontroller programming, to light some LEDs. Want to make my own [/CyberDeck]() someday.
 
