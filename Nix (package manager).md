@@ -12,6 +12,7 @@ There is a [/Linux]() distribution [NixOS](https://nixos.org) which uses Nix as 
 
 - [Nix pills](https://nixos.org/guides/nix-pills/) is a nice step-by-step tutorial for the Nix newcomers
 - ["Nix and Haskell in production"](https://github.com/Gabriel439/haskell-nix) teaches how to use Nix with [/Haskell]()
+- [NUR](https://github.com/nix-community/NUR), the Nix User Repository, user contributed nix packages. Here is a [template](https://github.com/nix-community/nur-packages-template) for such packages.
 
 And of course, one should take a look into [the official documentation](https://nixos.org/learn.html). There are described many aspects of using Nix with different toolchains, ([/Python]() for example is mentioned [here](https://nixos.org/manual/nixpkgs/stable/#python)). 
 
