@@ -10,13 +10,15 @@ The full specification is available [here](https://gemini.circumlunar.space/docs
 
 # Resources
 
-[Gemini portal](https://portal.mozz.us/gemini/gemini.circumlunar.space) gives the ability to browse Gemini network using the Web-browser. But there are many dedicated clients like
+`gemini://gemini.circumlunar.space` is an entry point to the Geminiverse. To browse it you will need to have a **Gemini client**. But you can open any `gemini://` address within a Web-browser using some proxy server like [this](https://portal.mozz.us/gemini/gemini.circumlunar.space) or [that](https://proxy.vulpes.one/gemini/gemini.circumlunar.space).
+
+Here are some clients:
 
 - [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()
 - [Xenia](https://gitlab.com/tslocum/xenia), a Gemini browser for [/Android]()
 - [diohsc](https://portal.mozz.us/gemini/gemini.thegonz.net/diohsc/), a terminal client written in [/Haskell]()
 
-Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/).
+Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/). Also, one can always look at [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) repo.
 
 Gemini text can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode)
 
