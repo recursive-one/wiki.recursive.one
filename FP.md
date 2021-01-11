@@ -5,7 +5,7 @@ toc: no
 
 # Functional Programming
 
-I ([/who/astynax]()) like FP: [/Haskell](), [/Elm](), [/Clojure](), [/Racket](). That's why our Wiki is running on [/gitit]()!
+I ([/who/astynax]()) like FP: [/Haskell](), [/Elm](), [/Clojure](), [/Racket](), maybe some [/Elixir](). That's why our Wiki is running on [/gitit]()!
 
 It can be a piece of math
 
