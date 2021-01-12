@@ -20,9 +20,16 @@ Here are some clients:
 
 Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/). Also, one can always look at [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) repo.
 
-Gemini text can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode)
+**Gemini text** can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode). Also, Markdown can be converted to Gemini/text using [md2gemini](https://github.com/makeworld-the-better-one/md2gemini).
 
-One can set up its own Gemini server (like Rust-powered [Pollux](https://git.sr.ht/~julienxx/pollux)) and have a personnel star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search).
+One can set up its own Gemini server and have a personnel star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search). 
+
+Notable servers:
+
+- [Pollux](https://git.sr.ht/~julienxx/pollux) ([/Rust]())
+- [Jetforce](https://github.com/michael-lazar/jetforce) ([/Python]())
+  
+    This one can be used not only as server for static files. One can build a whole application like [astrobotany](https://github.com/michael-lazar/astrobotany)
 
 # Community
 
