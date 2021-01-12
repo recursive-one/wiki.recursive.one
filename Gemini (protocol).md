@@ -31,6 +31,10 @@ Notable servers:
   
     This one can be used not only as server for static files. One can build a whole application like [astrobotany](https://github.com/michael-lazar/astrobotany)
 
+- [gig](https://github.com/pitr/gig) ([/Golang]())
+
+    This is a framework not a static file server. Looks pretty neat.
+
 # Community
 
 Many Gemini users have their own blogs - the "gemlogs". Usually, gemlog looks like [this](https://portal.mozz.us/gemini/gemini.marmaladefoo.com/blog/) or [that](https://portal.mozz.us/gemini/republic.circumlunar.space/users/joneworlds/) - minimalistic but nice. Someday I also build one for myself!
