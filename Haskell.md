@@ -45,3 +45,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 *(notable ones `:)`)*
 
 - [Hemmet](https://github.com/astynax/hemmet), a text templating tool inspired by [Emmet](https://emmet.io/)/[ZenCoding](https://www.456bereastreet.com/archive/200909/write_html_and_css_quicker_with_with_zen_coding/)
+
+# Notes
+
+- ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
