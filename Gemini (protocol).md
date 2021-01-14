@@ -15,6 +15,7 @@ The full specification is available [here](https://gemini.circumlunar.space/docs
 Here are some clients:
 
 - [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()
+- [Lagrange](https://gmi.skyjake.fi/lagrange), nice and slick but powerful GUI client written in C11 using SDL
 - [Xenia](https://gitlab.com/tslocum/xenia), a Gemini browser for [/Android]()
 - [diohsc](https://portal.mozz.us/gemini/gemini.thegonz.net/diohsc/), a terminal client written in [/Haskell]()
 
