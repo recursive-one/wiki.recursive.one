@@ -11,6 +11,7 @@ There is a [/Linux]() distribution [NixOS](https://nixos.org) which uses Nix as 
 # Resources
 
 - [Nix pills](https://nixos.org/guides/nix-pills/) is a nice step-by-step tutorial for the Nix newcomers
+- [nix.dev](https://nix.dev/), "An opinionated guide for developers getting things done using the Nix ecosystem."
 - [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/), "the workshop materials used for training Haskell developers at Scrive."
 - ["Nix and Haskell in production"](https://github.com/Gabriel439/haskell-nix) teaches how to use Nix with [/Haskell]()
 - [NUR](https://github.com/nix-community/NUR), the Nix User Repository, user contributed nix packages. Here is a [template](https://github.com/nix-community/nur-packages-template) for such packages.
