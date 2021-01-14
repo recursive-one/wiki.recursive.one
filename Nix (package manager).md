@@ -18,6 +18,20 @@ And of course, one should take a look into [the official documentation](https://
 
 # Tips
 
+## How much
+
+This command shows how many space will "eat" a particular package:
+
+```shell
+nix-env --dry-run -iA nixpkgs.gimp
+```
+
+## Profile update
+
+```shell
+nix-env -iA nixpkgs.myPackages && nix-collect-garbage
+```
+
 ## Locales
 
 By default there are no locales will be installed with glibc and some software won't work after installation. Here is a workaround:
