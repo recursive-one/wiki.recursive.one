@@ -6,7 +6,7 @@
 - has its own `text/gemini` media type (also the line-oriented as Gopher text)
 - supports other [MIME-types](https://en.wikipedia.org/wiki/MIME) (images for example)
 
-The full specification is available [here](https://gemini.circumlunar.space/docs/specification.html) and [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/docs/specification.gmi) is a mirrored version of it, also available through Gemini itself.
+The full specification is available [here](https://gemini.circumlunar.space/docs/specification.html) (mirror in Gemini: `gemini://gemini.circumlunar.space/docs/specification.gmi` ([or via HTTP-proxy](https://portal.mozz.us/gemini/gemini.circumlunar.space/docs/specification.gmi)).
 
 # Resources
 
