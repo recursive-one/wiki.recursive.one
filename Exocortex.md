@@ -22,6 +22,10 @@ Software:
 - [Zettr](https://www.zettlr.com/)
 - any notetaking app that supports crosslinking and tagging (Obsidian, Roam, Org mode...)
 
+### Resources
+
+- ["How to take smart notes: 10 pronciples to revolutionize your note-taking and writing"](https://fortelabs.co/blog/how-to-take-smart-notes), a quick intro to Zettelkasten and author's thoughts about the ["How to take smart notes"](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) book.
+
 ## Outliners
 
 Trees of nodes. Each node is a note.
