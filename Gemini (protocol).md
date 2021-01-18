@@ -28,6 +28,7 @@ One can set up its own Gemini server and have a personnel star in the Gemini con
 Notable servers:
 
 - [Pollux](https://git.sr.ht/~julienxx/pollux) ([/Rust]())
+- [Agate](https://github.com/mbrubeck/agate) (also [/Rust]())
 - [Jetforce](https://github.com/michael-lazar/jetforce) ([/Python]())
   
     This one can be used not only as server for static files. One can build a whole application like [astrobotany](https://github.com/michael-lazar/astrobotany)
