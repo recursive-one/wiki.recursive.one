@@ -13,7 +13,7 @@ Usually I do [/FP]() in [/Emacs]() using my [/ThinkPad]() with Ubuntu [/Linux]()
 
 Like to make [/GUI]() and [/CLI]() apps, do some [/gamedev]() and digital art, that stuff.
 
-Also, I love to solder things from time to time, to do some microcontroller programming, to light some LEDs. Want to make my own [/CyberDeck]() someday.
+Also, I love to solder things from time to time, to do some microcontroller programming, to light some LEDs. You know, [/DIY/electronics]() stuff. I really want to make my own [/CyberDeck]() someday.
 
 In this wiki I am usually writing about programming languages, OSes, coding [puzzles](/_category/puzzle "wiki category"). This is a *"Garden"* part of my [/Digital Garden](). Someday I put here the *"Stream"* part too :)
 
