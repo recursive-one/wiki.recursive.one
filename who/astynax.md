@@ -22,6 +22,6 @@ In this wiki I am usually writing about programming languages, OSes, coding [puz
 * [GitHub/astynax](https://github.com/astynax) - profile in the social network for techies. You know, projects, [/dotfiles](), etc.
 * [t.me/brain_dump_etc](https://t.me/brain_dump_etc) - a Telegram channel where I am writing geeky stuff (in Russian).
 * [Twitter/alex_pir](https://twitter.com/alex_pir) - profile in a more common social network. I am twitting from time to time but not so much.
-* [Recursive One](https://recursive.one) - a small portal for small projects (like this Wiki).
+* [Recursive One](https://recursive.one) - a small portal for small projects (like this Wiki). It even has a [/Gemini (protocol)]() side: `gemini://recursive.one`!
 * [astynax.me](https://astynax.me) - a personal home page, almost empty :(
 * [tilde.town/~astynax](https://tilde.town/~astynax) - my small house in the [/Tilde]().Town.
