@@ -40,6 +40,7 @@ These projects don't pose itself as replacements for "good old Unix tools". But 
 - [bb](https://github.com/epilys/bb) — simple process viewer
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
 - [meli](https://github.com/meli/meli) — terminal email client
+- [rage](https://github.com/str4d/rage) — encryption tool 
 
 ### Some aliases
 
