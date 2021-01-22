@@ -40,7 +40,7 @@ except ProcessingError as e:
 
 ## An easy way
 
-If you don't need to strip out the high-level layer, you can just do `logging.debug(str(e), exc_info=sys.exc_info())`. Then you will just get both errors in a row:
+If you don't need to strip out the high-level layer, you can just do `logging.debug(str(e), exc_info=sys.exc_info())` or even `logging.debug(str(e), exc_info=True)`. Then you will just get both errors in a row:
 
 ```text
 Traceback (most recent call last):
