@@ -41,6 +41,8 @@ Usually, Wiki is a Web-app but it can be also in a form of a desktop app.
 
 - [Gitit](https://hackage.haskell.org/package/gitit) (powers this wiki, written in [/Haskell])
 - [IkiWiki](https://ikiwiki.info) an old one, simplistic, lightweight, Perl-driven
+- [Mycorrhiza](https://github.com/bouncepaw/mycorrhiza), "Filesystem and git-based wiki engine". Lightweight and capable to run on systems like Raspberry Pi ([here is](https://mycorrhiza.lesarbr.es/page/home) a wiki about it)
+- 
 
 ## "Files & folders"
 
