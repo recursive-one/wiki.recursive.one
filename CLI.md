@@ -17,6 +17,8 @@
   11. "Be clear about subcommands"
   12. "Follow XDG-spec" **(!)**
 
+Also, it will be nice to add an [/asciinema]() to your tool's documentation.
+
 # Use the libraries, Luke
 
 Implementation of the proper CLI is a though work. Hopefully, there are some shortcuts in this way. One just needs to remember about them.
