@@ -13,6 +13,11 @@ I ([/who/astynax]()) have spent a lot of time building various user interfaces:
 
 Here I have written my experience in doing such stuff.
 
+## TUI
+
+- [/haskell/brick](), the TUI framework for [/Haskell]()
+- [bubbletea](https://github.com/charmbracelet/bubbletea/), "A powerful little TUI framework" for [/Golang]() based on The [/Elm]() Architecture
+
 ## Tck/Tk
 
 I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a lot with its GUI toolkit, the Tk. Usually it were the [Tkinter](https://docs.python.org/3/library/tkinter.html) for [/Python]() or [uni-htk](https://hackage.haskell.org/package/uni-htk) for [/Haskell](). Tk is pretty simple to use, lightweight, and "just works" on many platforms.
