@@ -8,4 +8,5 @@ The whole RPi idea is quite popular. So, there are many "clones" like [Orange Pi
 
 # Resources
 
+- [Diet Pi](https://dietpi.com/), an opinionated Linux distribution for the SBCs (Single-Board Computers) 
 - ["How to Use Raspberry Pi for a Professional Solution"](https://medium.com/swlh/how-to-use-raspberry-pi-for-a-professional-solution-b153ff4b4790) (TLDR: Don't)
