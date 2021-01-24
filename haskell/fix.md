@@ -1,3 +1,7 @@
+---
+toc: no
+...
+
 # `fix` as a loop
 
 One can use `fix` this way:
