@@ -10,12 +10,13 @@ The full specification is available [here](https://gemini.circumlunar.space/docs
 
 # Resources
 
-`gemini://gemini.circumlunar.space` is an entry point to the Geminiverse. To browse it you will need to have a **Gemini client**. But you can open any `gemini://` address within a Web-browser using some proxy server like [this](https://portal.mozz.us/gemini/gemini.circumlunar.space) or [that](https://proxy.vulpes.one/gemini/gemini.circumlunar.space).
+`gemini://gemini.circumlunar.space` is an entry point to the Geminspace. To browse it you will need to have a **Gemini client**. But you can open any `gemini://` address within a Web-browser using some proxy server like [this](https://portal.mozz.us/gemini/gemini.circumlunar.space) or [that](https://proxy.vulpes.one/gemini/gemini.circumlunar.space).
 
 Here are some clients:
 
 - [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()
 - [Lagrange](https://gmi.skyjake.fi/lagrange), nice and slick but powerful GUI client written in C11 using SDL
+- [kristall](https://kristall.random-projects.net/), a cross-platform "Small-Internet Browser", supports Gopher and Finger too. 
 - [Deedum](https://github.com/snoe/deedum), a Gemini browser for [/Android]()
 - [diohsc](https://portal.mozz.us/gemini/gemini.thegonz.net/diohsc/), a terminal client written in [/Haskell]()
 
