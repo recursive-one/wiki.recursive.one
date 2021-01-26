@@ -3,7 +3,7 @@
 # Resources
 
 - ["Docker Security Best Practices from the Dockerfile"](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
-- [wharfee](https://github.com/j-bennet/wharfee), an interactive shell for the `docker` command built using [/python/prompt-toolkit]()
+- [lazydocker](https://github.com/jesseduffield/lazydocker), a nice TUI app for docker(-compose)
 
 ## hadolint
 
