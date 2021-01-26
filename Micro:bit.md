@@ -2,7 +2,7 @@
 
 [BBC Micro:bit](https://microbit.org) is a [development board](https://en.wikipedia.org/wiki/Microprocessor_development_board) for the hobbyists who are just starting to dig into electronics. The board is pretty capable itself but also one has access to the vast ecosystem of extensions. Or one can just connect its micro:bit somewhere with a couple of [crocodile clips](https://en.wikipedia.org/wiki/Crocodile_clip).
 
-![microbit](https://cdn.sanity.io/images/ajwvhvgo/production/4de361b622ac9bf5e8b9c3109a3935dd47b96167-1490x609.png?w=653&q=80&fit=max&auto=format)
+![microbit v2](https://cdn.sanity.io/images/ajwvhvgo/production/4de361b622ac9bf5e8b9c3109a3935dd47b96167-1490x609.png?w=653&q=80&fit=max&auto=format)
 
 # Programming
 
