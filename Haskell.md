@@ -19,11 +19,12 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 
 - [/Turtle (library)](), a shell scripting toolkit
 - [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui), a Web [/GUI]() framework with the [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming) taste
-- [Shake](https://shakebuild.com/), a declarative build system
+- [/haskell/shake](), a declarative build system
 - [propellor](https://propellor.branchable.com/), a configuration management system (does the same work that [/Ansible]() does)
 - [Hakyll](https://jaspervdj.be/hakyll/), a static site generation framework
 - [HsLua](https://hackage.haskell.org/package/hslua), binding to [/Lua]() language. [Here](https://hslua.github.io/santas-little-lua-scripts.html) is a good intro and [here](https://github.com/hslua/hslua-examples) are nice examples of usage.
 - [QuickCheck](https://hackage.haskell.org/package/QuickCheck), the [famous](https://en.wikipedia.org/wiki/QuickCheck) property-based testing framework ([good intro](https://jesper.sikanda.be/posts/quickcheck-intro.html) to)
+- [tasty](https://github.com/feuerbach/tasty), a "Modern and extensible testing framework"
 - [brick](https://hackage.haskell.org/package/brick), a declarative framework for building [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface)
 - [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
 - [/haskell/servant](), a framework for HTTP APIs
