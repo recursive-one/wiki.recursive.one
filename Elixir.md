@@ -7,6 +7,7 @@
 # Resources
 
 - [Hex.pm](https://hex.pm/), a package repository for Erlang/Elixir
+- [Nerves Platform](https://www.nerves-project.org/), "the open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale.". Yep, suitable for [/DIY/electronics]() and even for LEGO ([EV3](https://www.lego.com/en-us/product/ev3-intelligent-brick-45500) via [nerves_system_ev3](https://github.com/nerves-project-attic/nerves_system_ev3))
 
 # How to
 
