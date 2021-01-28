@@ -29,7 +29,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
 - [/haskell/servant](), a framework for HTTP APIs
 
-# Online resources
+# Resources
 
 - [Hoogle](https://hoogle.haskell.org/) (or just `!hoogle` *bang* in the [/DuckDuckGo]()), the "search by types"
 - [https://packdeps.haskellers.com/reverse]() shows reverse dependencies for the Hackage's packages
@@ -42,12 +42,13 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [Shellcheck](https://www.shellcheck.net/), a tool that finds bugs in your shell scripts
 - [hadolint](https://github.com/hadolint/hadolint), a `Dockerfile` (for [/Docker]()) linter
 
+# Nice to read
+
+- ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
+- ["All about strictness"](https://www.fpcomplete.com/haskell/tutorial/all-about-strictness/): Haskell is lazy by default ad this article helps to deal with it when you need to.
+
 # Projects of mine
 
 *(notable ones `:)`)*
 
 - [Hemmet](https://github.com/astynax/hemmet), a text templating tool inspired by [Emmet](https://emmet.io/)/[ZenCoding](https://www.456bereastreet.com/archive/200909/write_html_and_css_quicker_with_with_zen_coding/)
-
-# Notes
-
-- ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
