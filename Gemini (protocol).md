@@ -24,7 +24,7 @@ Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/
 
 **Gemini text** can be edited in [/Emacs]() (see [ox-gemini](https://github.com/emacsmirror/ox-gemini) and [gemini-mode](https://github.com/matt-y/gemini-mode). Also, Markdown can be converted to Gemini/text using [md2gemini](https://github.com/makeworld-the-better-one/md2gemini).
 
-One can set up its own Gemini server and have a personnel star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search). 
+One can set up its own Gemini server and have a personal star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search). 
 
 Notable servers:
 

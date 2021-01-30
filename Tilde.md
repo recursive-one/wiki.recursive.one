@@ -5,7 +5,7 @@ title: ~Tilde
 
 Each **Tilde** is a small community built around a single multi-user machine, usually running a Unix-like OS.
 
-Any member of the community has SSH access to its `/home/~username` and can build there a site, personnel page, such stuff. For you server has a bunch of compilers and interpreters installed aside with popular editors ([/Emacs](), [/Vim]()) and [version control systems](https://en.wikipedia.org/wiki/Version_control) ([/Git](), [/Mercurial]()). You may think about it as a shared sandbox. 
+Any member of the community has SSH access to its `/home/~username` and can build there a site, personal page, such stuff. For you server has a bunch of compilers and interpreters installed aside with popular editors ([/Emacs](), [/Vim]()) and [version control systems](https://en.wikipedia.org/wiki/Version_control) ([/Git](), [/Mercurial]()). You may think about it as a shared sandbox. 
 
 The server itself usually provides
 
