@@ -14,9 +14,17 @@ categories: Linux
 
 ## Reverse dependencies
 
-```bash
-$ aptitude why bash
-```
+1. A simple one
+
+    ```bash
+    apt rdepends bash
+    ```
+
+2. More complicated and informative
+
+    ```bash
+    aptitude why bash
+    ```
 
 ## Package the file came from
 
