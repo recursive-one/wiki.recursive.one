@@ -7,20 +7,15 @@ categories: Haskell Python
 
 I ([/who/astynax]()) have spent a lot of time building various user interfaces:
 
-- [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface)s for the MS-DOS programs written in [QBasic](https://en.wikipedia.org/wiki/QBasic) and [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal)
+- [/TUI]()s for the MS-DOS programs written in [QBasic](https://en.wikipedia.org/wiki/QBasic) and [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal)
 - Graphical interfaces for Windows programs written in [Borland Delphi](https://en.wikipedia.org/wiki/Delphi_(software))
-- [Tcl/Tk](https://en.wikipedia.org/wiki/Tk_(software))-based GUIs and "Web GUIs" for Linux programs
+- Tcl/Tk-based GUIs and "Web GUIs" for Linux programs
 
 Here I have written my experience in doing such stuff.
 
-## TUI
-
-- [/haskell/brick](), the TUI framework for [/Haskell]()
-- [bubbletea](https://github.com/charmbracelet/bubbletea/), "A powerful little TUI framework" for [/Golang]() based on The [/Elm]() Architecture
-
 ## Tck/Tk
 
-I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a lot with its GUI toolkit, the Tk. Usually it were the [Tkinter](https://docs.python.org/3/library/tkinter.html) for [/Python]() or [uni-htk](https://hackage.haskell.org/package/uni-htk) for [/Haskell](). Tk is pretty simple to use, lightweight, and "just works" on many platforms.
+I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a lot with its GUI toolkit, the [Tk](https://en.wikipedia.org/wiki/Tk_(software)). Usually it were the [Tkinter](https://docs.python.org/3/library/tkinter.html) for [/Python]() or [uni-htk](https://hackage.haskell.org/package/uni-htk) for [/Haskell](). Tk is pretty simple to use, lightweight, and "just works" on many platforms.
 
 Here is a nice but opinionated article about Tkinter: ["How to setup correctly an application with Python and Tkinter"](https://medium.com/@mattia512maldini/how-to-setup-correctly-an-application-with-python-and-tkinter-107c6bc5a45)
 
