@@ -15,3 +15,7 @@ title: TO DO
 
 - [/haskell/Scotty]()
 - [/IPFS]()
+- [/Fediverse]()
+  - [/ActivityPub]()
+- [/IndieWeb]()
+  - [/MicroPub]()
