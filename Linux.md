@@ -1,3 +1,7 @@
+---
+categories: Linux
+...
+
 # Ubuntu/Debian
 
 See [/Packaging in Debian]()
