@@ -6,6 +6,10 @@ In the family are the pure [computation modules](https://www.raspberrypi.org/pro
 
 The whole RPi idea is quite popular. So, there are many "clones" like [Orange Pi](http://www.orangepi.org/) and [Banana Pi](http://www.banana-pi.org/) and also pretty distinct boards like [Clockwork Pi](https://www.clockworkpi.com/).
 
+# Your own cluster of RPies
+
+- [TuringPi](https://turingpi.com/), a x8 Computation Modules on single "motherboard" in ATX form-factor.
+
 # Resources
 
 - [Diet Pi](https://dietpi.com/), an opinionated Linux distribution for the SBCs (Single-Board Computers) 
