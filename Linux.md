@@ -34,3 +34,15 @@ How to
     ```bash
     sudo dpkg-reconfigure keyboard-configuration
     ```
+
+### Discrete GPU
+
+```bash
+$ glxinfo | grep "OpenGL renderer"
+OpenGL renderer string: Mesa DRI Intel(R) HD Graphics ...
+$ # hmm
+$ DRI_PRIME=1 glxinfo | grep OpenGL renderer
+OpenGL renderer string: AMD HAINAN ...
+$ # a-ha!
+$ DRI_PRIME=1 ./game
+```
