@@ -2,7 +2,7 @@
 
 <img src="https://docs.n8n.io/assets/img/n8n-logo.png" style="height: 64px;">
 
-[n8n](https://n8n.io/), the "extendable workflow automation", a self-hosted [IFTTT](https://ifttt.com) if you know what I mean.
+[n8n](https://n8n.io/), the "extendable workflow automation", a personal [IFTTT](https://ifttt.com) if like [/self-hosting]().
 
 n8n makes it possible to solve some tasks in a *"No-Code"* manner (a [very polular](https://nocodelist.co/) thing nowadays):
 
