@@ -25,6 +25,8 @@ Also, if you are a Pythonista take a look at [PySimpleGUI](https://github.com/Py
 
 Nowadays I prefer to use [/Elm](). Though I always have in my pocket the [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui) (a [/Haskell]() library) if I will need to do some heavy lifting :)
 
+Usually, WebGUI implies [/CSS]() and under the link I keep a couple of good variants of it to use in my projects. 
+
 ## Menus, dialogs
 
 When I don't need a full-featured GUI and some simple menu-like interface is enough I use the [/Rofi]() with some Python scripting.
