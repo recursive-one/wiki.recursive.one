@@ -18,3 +18,7 @@ categories: TODO
 
 - [/n8n](), the “extendable workflow automation”
 - [NodeRed](https://nodered.org/), a "programming tool for wiring together hardware devices, APIs and online services in new and interesting ways"
+
+# Need to take a look (TODO)
+
+- [funkwhale](https://funkwhale.audio/), "is a community-driven project that lets you listen and share music and audio within a decentralized, open network."
