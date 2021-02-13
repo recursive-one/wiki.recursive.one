@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Grid layout example</title>
+    <style>
+      html, body, .grid-container {
+        height: 100%;
+        margin: 0;
+      }
+
+      .grid-container {
+        display: grid;
+        grid-template-columns: 20% 1fr 16px;
+        grid-template-rows: 32px 1fr 16px;
+        gap: 0px 0px;
+        grid-template-areas:
+          "Navbar Navbar Navbar"
+          "Sidebar Content Gutter"
+          "Status-bar Status-bar Status-bar";
+      }
+
+      .Sidebar { grid-area: Sidebar; background-color: gray; }
+
+      .Navbar { grid-area: Navbar; background-color: lightgray; }
+
+      .Status-bar { grid-area: Status-bar; background-color: lightgray; }
+
+      .Gutter { grid-area: Gutter; background-color: gray; }
+
+      .Content {
+        grid-area: Content;
+        overflow: scroll !important;
+      }
+
+      .Content > ul {
+        display: flex;
+        flex-flow: wrap;
+        margin: 0;
+        padding: 0;
+      }
+
+      .Content > ul > li {
+        height: 200px;
+        min-width: 200px;
+      }
+
+      /* element visualization */
+
+      .grid-container * {
+        border: 1px solid red;
+        position: relative;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="grid-container">
+      <div class="Sidebar">Sidebar</div>
+      <div class="Navbar">Navbar</div>
+      <div class="Status-bar">Status</div>
+      <div class="Gutter">Gutter</div>
+      <div class="Content">
+        <ul>
+          <li>A</li>
+          <li>B</li>
+          <li>C</li>
+          <li>D</li>
+          <li>E</li>
+          <li>F</li>
+          <li>G</li>
+        </ul>
+      </div>
+    </div>
+
+  </body>
+</html>
