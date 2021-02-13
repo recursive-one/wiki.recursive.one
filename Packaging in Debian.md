@@ -31,3 +31,11 @@ categories: Linux
 ```bash
 $ dpkg -S `which bash`
 ```
+
+## Packages from alternative sources
+
+```bash
+$ grep Package /var/lib/apt/lists/*amd64_Packages \
+    | grep -v ubuntu\.com \
+    | grep -v canonical\.com
+```
