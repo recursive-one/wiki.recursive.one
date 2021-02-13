@@ -20,6 +20,19 @@ categories: Linux
     apt rdepends bash
     ```
 
+    or more precise
+
+    ```bash
+    apt-cache \
+        rdepends \
+        --no-recommends \
+        --no-suggests \
+        --no-enhances \
+        --recurse \
+        --installed \
+        perl
+    ```
+
 2. More complicated and informative
 
     ```bash
