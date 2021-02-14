@@ -1,20 +1,20 @@
 ---
-title: TO DO
+title: TODO
 ...
 
-# TO DO
+# TODO
 
 ## Wiki itself
 
-- [ ] **Backlinks**. It will be nice to collect them on CI and commit back as page's metadata.
-- [ ] **Permalinks** (to files in GitHub).
+- **Backlinks**. It will be nice to collect them on CI and commit back as page's metadata.
+- **Permalinks** (to files in GitHub).
 
 ## Content
 
-### By [/who/astynax]()
+Unfinished pages are marked with [/_category/TODO]().
 
-- [/haskell/Scotty]()
-- [/IPFS]()
+### Potential pages
+
 - [/Fediverse]()
   - [/ActivityPub]()
 - [/IndieWeb]()
