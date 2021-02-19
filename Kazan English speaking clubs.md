@@ -8,9 +8,9 @@ Fee: 250 rub
 
 Address: 13 Pravobulachnaya, office 400, 4-th floor
 
-Tg: @nedetskyenglish
+Tg: [@nedetskyenglish](https://t.me/nedetskyenglish)
 
-Host: @nedetsky_tutor
+Host: [@nedetsky_tutor](https://t.me/nedetsky_tutor)
 
 ### Sanchez's club
 
@@ -36,7 +36,7 @@ Address: Zinina 9/23
 
 Place: Dr Sheikh Medical Center
 
-Host: @FouF42 @Aygulkzn
+Host: [@FouF42](https://t.me/FouF42) [@Aygulkzn](https://t.me/Aygulkzn)
 
 ## Friday
 
@@ -50,7 +50,7 @@ Place: Baklazhan time-club
 
 Address: 21 Ostrovskogo, 2-nd floor
 
-Tg: @english_club_kzn
+Tg: [@english_club_kzn](https://t.me/english_club_kzn)
 
 Vk: vk.com/kzneng
 
@@ -64,7 +64,7 @@ Place: Book & Game
 
 Address: 10a Lobachevskogo
 
-Host: @AppazovaZeyneb 
+Host: [@AppazovaZeyneb](https://t.me/AppazovaZeyneb) 
 
 ### Speak
 
@@ -74,7 +74,7 @@ Fee: 300 rub
 
 Address: 86 Pushkina 
 
-Host: @missleylaaaa
+Host: [@missleylaaaa](https://t.me/missleylaaaa) 
 
 ## Saturday
 
@@ -88,7 +88,7 @@ Place: Step English School
 
 Address: 4 Katanovskiy pereulok
 
-Host: @AppazovaZeyneb
+Host: [@AppazovaZeyneb](https://t.me/AppazovaZeyneb) 
 
 ### What would Buffy do? 
 
@@ -100,7 +100,7 @@ Place: Cziferblat time-club
 
 Address: 14 Universitetskaya, 4-th floor
 
-Tg: @WhatWouldBuffyDo
+Tg: [@WhatWouldBuffyDo](https://t.me/WhatWouldBuffyDo) 
 
 Vk: vk.com/club200248498
 
@@ -127,7 +127,7 @@ Fee: 250 rub (tea is included)
 
 Address: Gubkina str.
 
-Host: @Lina_ki
+Host: [@Lina_ki](https://t.me/Lina_ki) 
 
 ### Miha.English
 
@@ -167,4 +167,4 @@ Fee: 300 rub
 
 Address: 86 Pushkina 
 
-Host: @missleylaaaa
+Host: [@missleylaaaa](https://t.me/missleylaaaa) 
