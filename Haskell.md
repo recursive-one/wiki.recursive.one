@@ -28,6 +28,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [brick](https://hackage.haskell.org/package/brick), a declarative framework for building [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface)
 - [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
 - [/haskell/servant](), a framework for HTTP APIs
+- [arduino-copilot](https://hackage.haskell.org/package/arduino-copilot), an "Arduino programming in [/Haskell]() using the [Copilot](https://copilot-language.github.io/) stream DSL"
 
 # Resources
 
