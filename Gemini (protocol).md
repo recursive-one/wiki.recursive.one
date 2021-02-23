@@ -26,17 +26,16 @@ Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/
 
 One can set up its own Gemini server and have a personal star in the Gemini constellation. Many of such servers can be found in [this list](https://portal.mozz.us/gemini/gemini.circumlunar.space/servers/) or through the [GUS](https://portal.mozz.us/gemini/gus.guru/) (Gemini Universal Search). 
 
-Notable servers:
+Notable servers and server-side frameworks:
 
 - [Pollux](https://git.sr.ht/~julienxx/pollux) ([/Rust]())
 - [Agate](https://github.com/mbrubeck/agate) (also [/Rust]())
 - [Jetforce](https://github.com/michael-lazar/jetforce) ([/Python]())
   
-    This one can be used not only as server for static files. One can build a whole application like [astrobotany](https://github.com/michael-lazar/astrobotany)
+  This one can serve some static files but can be used to build applications like [astrobotany](https://github.com/michael-lazar/astrobotany)
 
-- [gig](https://github.com/pitr/gig) ([/Golang]())
-
-    This is a framework not a static file server. Looks pretty neat.
+- [gig](https://github.com/pitr/gig), a framework for ([/Golang]()), looks pretty neat
+- [/haskell/gemini-server](), a simple framework for [/Haskell]()
 
 # Community
 
