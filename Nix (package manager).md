@@ -34,6 +34,8 @@ nix-env --dry-run -iA nixpkgs.gimp
 nix-env -iA nixpkgs.myPackages && nix-collect-garbage
 ```
 
+With `-r` it will remove all the packages that aren't mentioned in your `myPackages`.
+
 ## Locales
 
 By default there are no locales will be installed with glibc and some software won't work after installation. Here is a workaround:
@@ -51,3 +53,7 @@ By default there are no locales will be installed with glibc and some software w
         export LOCALE_ARCHIVE="$HOME/.nix-profile/lib/locale/locale-archive"
     fi
     ```
+
+## "Why"
+
+[nix-tree](https://github.com/utdemir/nix-tree) can tell why this or that package was installed.
