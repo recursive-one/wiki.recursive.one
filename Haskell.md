@@ -36,6 +36,11 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [https://packdeps.haskellers.com/reverse]() shows reverse dependencies for the Hackage's packages
 - [https://hackage-search.serokell.io/](), a `grep(1)` like search over Hackage
 
+# Learning
+
+- ["Learn You a Haskell" book](http://learnyouahaskell.com/) (free online version)
+- [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell), "Learn Haskell basics in 4 pull requests"
+
 # Haskell powered software
 
 - [Xmonad](https://xmonad.org/), a [tiling window manager](https://en.wikipedia.org/wiki/Tiling_window_manager) 
