@@ -20,6 +20,12 @@ And of course, one should take a look into [the official documentation](https://
 
 # Tips
 
+## Subprocesses
+
+If you are using some app that run other apps as subprocesses (like [/Rofi]()) then beware: all the subprocesses will run inside the same nix env.
+
+For example, rofi depends on the Gtk and runs any apps inside the env with this particular version of Gtk. For me it breaks any Gtk-based apps those I run from the rofi!
+
 ## How much
 
 This command shows how many space will "eat" a particular package:
