@@ -25,7 +25,7 @@ Also, if you are a Pythonista take a look at [PySimpleGUI](https://github.com/Py
 
 Nowadays I prefer to use [/Elm](). Though I always have in my pocket the [Threepenny-GUI](https://wiki.haskell.org/Threepenny-gui) (a [/Haskell]() library) if I will need to do some heavy lifting :)
 
-Usually, WebGUI implies [/CSS]() and under the link I keep a couple of good variants of it to use in my projects. 
+Usually, WebGUI implies [/CSS]() and under the link I keep a couple of good variants of it to use in my projects.
 
 ## Menus, dialogs
 
@@ -33,8 +33,13 @@ When I don't need a full-featured GUI and some simple menu-like interface is eno
 
 Sometimes I just need to show a simple confirmation window or a text entry. In such cases [/Zenity]() can be just good.
 
-# Related stuff
+# Resources
 
 ## 7GUIs
 
 Recently I found a nice set of tasks that are testing how your favorite GUI toolkit capable to do the real work. Here it is: ["7GUIs: A GUI Programming Benchmark"](https://eugenkiss.github.io/7guis/). My advice: just scroll through the list of tasks and look to the last ones! :)
+
+## Interesting stuff to try out
+
+- [zserge/lorca](https://github.com/zserge/lorca), "Build cross-platform modern desktop apps in Go + HTML5" ([/Golang]())
+- [BeeWare](https://beeware.org/), "Write your apps in [/Python]() and release them on <...many platforms> using rich, native user interfaces."
