@@ -11,6 +11,7 @@ Usually, DG consists of the Garden itself and the Stream. The Stream *has* a tim
 - ["🌱 My blog is a digital garden, not a blog"](https://joelhooks.com/digital-garden)
 - ["The Garden and the Stream: A Technopastoral | Hapgood"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 - ["The Garden and the Stream"](https://commonplace.doubleloop.net/the-garden-and-the-stream)
+- ["How to choose the right note-taking app: the ultimate guide"](https://nesslabs.com/how-to-choose-the-right-note-taking-app) (the ["Apps for gerdeners"](https://nesslabs.com/how-to-choose-the-right-note-taking-app#gardeners) section).
 
 # Examples
 
