@@ -20,6 +20,7 @@ Software:
 
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) for [/Emacs]()
 - [Zettr](https://www.zettlr.com/)
+- [Neuron Zettelkasten](https://neuron.zettel.page/), "a future-proof open-source app for managing your plain-text notes in Zettelkasten style", written in [/Haskell]().
 - any notetaking app that supports crosslinking and tagging (Obsidian, Roam, Org mode...)
 
 ### Resources
