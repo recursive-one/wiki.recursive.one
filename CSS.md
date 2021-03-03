@@ -6,6 +6,7 @@ But there are good projects that are trying to be as simple as possible but stil
 
 - [blocks.css](https://thesephist.github.io/blocks.css/) "adds a layer of dimension to your web elements. It's light enough that it takes no time to set up or load, but interesting enough that it can serve as the only major CSS on the page". Looks pretty suitable for simple Web [/GUI]()s.
 - [paper.css](https://thesephist.github.io/paper.css/), "a spiritual successor to blocks.css", it "carries the same simplicity, focus on a single visual motif, and customizability thorugh CSS variables.". Also looks very nice but more "site-like".
+- [MVP.css](https://github.com/andybrewer/mvp), "Minimalist stylesheet for HTML elements", "Out of the box CSS styling for HTML elements. No class names, no framework to learn.".
 
 # Notable ones
 
