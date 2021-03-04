@@ -14,9 +14,14 @@ There is a [/Linux]() distribution [NixOS](https://nixos.org) which uses Nix as 
 - [nix.dev](https://nix.dev/), "An opinionated guide for developers getting things done using the Nix ecosystem."
 - [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/), "the workshop materials used for training Haskell developers at Scrive."
 - ["Nix and Haskell in production"](https://github.com/Gabriel439/haskell-nix) teaches how to use Nix with [/Haskell]()
-- [NUR](https://github.com/nix-community/NUR), the Nix User Repository, user contributed nix packages. Here is a [template](https://github.com/nix-community/nur-packages-template) for such packages.
+- [NUR](https://github.com/nix-community/NUR), the Nix User Repository, user contributed nix packages. Here is a [template](https://github.com/nix-community/nur-packages-template) for such packages
 
 And of course, one should take a look into [the official documentation](https://nixos.org/learn.html). There are described many aspects of using Nix with different toolchains, ([/Python]() for example is mentioned [here](https://nixos.org/manual/nixpkgs/stable/#python)). The ["Developing Python with Poetry & Poetry2nix"](https://www.tweag.io/blog/2020-08-12-poetry2nix/) is also a good entry point to Nix for the Python users.
+
+# Additional tools
+
+- [nix-tree](https://github.com/utdemir/nix-tree), "Interactively browse the dependency graph of your Nix derivations."
+- [nix-script](https://github.com/BrianHicks/nix-script), that "lets you write quick scripts in compiled languages, tranparently compile and cache them, and pull in whatever dependencies you need from the Nix ecosystem." (see an [article](https://bytes.zone/posts/nix-script/))
 
 # Nix Flakes
 
