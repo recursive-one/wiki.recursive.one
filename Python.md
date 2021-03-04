@@ -1,8 +1,8 @@
 ---
-title: Python (language)
 categories: Python
-toc: no
 ...
+
+# Python language
 
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python logo" style="height: 64px">
 
@@ -14,7 +14,12 @@ Python is a "go-to language" that both of us ([/who/astynax]() and [/who/histrio
 
 The language itself is far from ideal. But if one can tell "a language is just a tool" it will be about Python, a one of many tools in our toolbetls.
 
-## External "batteries" nice to have
+# Tooling
+
+- [poetry](https://python-poetry.org/), a "Python packaging and dependency management made easy".
+  - ["Developing Python with Poetry & Poetry2nix"](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
+
+# External "batteries" nice to have
 
 - [plumbum](https://plumbum.readthedocs.io), a "shell combinators and more". Quick, dirty, fun, gets stuff done
 - [click](https://click.palletsprojects.com), all you need to build a command-line tool
