@@ -17,7 +17,7 @@ The language itself is far from ideal. But if one can tell "a language is just a
 # Tooling
 
 - [poetry](https://python-poetry.org/), a "Python packaging and dependency management made easy".
-  - ["Developing Python with Poetry & Poetry2nix"](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
+  - ["Developing Python with Poetry & Poetry2nix"](https://www.tweag.io/blog/2020-08-12-poetry2nix/) (see [/Nix (package manager)]())
 
 # External "batteries" nice to have
 
