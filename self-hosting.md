@@ -1,6 +1,6 @@
 # Self-hosting
 
-[Self-hosting](https://en.wikipedia.org/wiki/Self-hosting_(web_services)) is "the practice of running and maintaining a website using a private web server".
+[Self-hosting](https://en.wikipedia.org/wiki/Self-hosting_(web_services)) is "the practice of running and maintaining a website using a private web server". Usually, self-hosted software runs on the [/Linux]() machines (especially on [/OpenWRT]()).
 
 # "Personal Clouds"
 
