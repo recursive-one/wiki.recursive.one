@@ -15,7 +15,7 @@
 # Automation
 
 - [/n8n](), the “extendable workflow automation”
-- [NodeRed](https://nodered.org/), a "programming tool for wiring together hardware devices, APIs and online services in new and interesting ways"
+- [NodeRed](https://nodered.org/), a "programming tool for wiring together hardware devices, APIs and online services in new and interesting ways" (can work with [/MQTT]())
 
 # Need to take a look (TODO)
 
