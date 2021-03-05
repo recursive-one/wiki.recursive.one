@@ -4,6 +4,8 @@
 
 [OpenWRT](https://openwrt.org) is a [/Linux]() distribution originally targeting <strong>W</strong>ireless <strong>R</strong>ou<strong>T</strong>ers but for now any suitable embedded devices ([/DIY/electronics]()!).
 
+Often OpenWRT helps to build the "own clouds" (see [/self-hosting]()).
+
 # Derivatives
 
 - [LibraryBox](http://jasongriffey.net/librarybox/)
