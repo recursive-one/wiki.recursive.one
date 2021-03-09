@@ -1,4 +1,6 @@
-[Docker](https://www.docker.com) is a containerization tool for unix OSes.
+# Docker
+
+[Docker](https://www.docker.com) is a containerization tool for unix OSes. It implements many ideas of the [Open Container Initiative (OCI)](https://opencontainers.org/) but does that in a *rootful* manner. For the *rootless* containerization one can use the [/Podman]().
 
 # Resources
 
