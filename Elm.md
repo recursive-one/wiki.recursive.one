@@ -10,9 +10,10 @@ Also, Elm is *self-contained*: it has its packaging system and compiler, no WebP
 
 The language itself has a built-in framework, The Elm Architecture, that is very easy to learn and use. "Batteries included", you know! There are many libraries to use in Web UIs. I even made [one](https://github.com/astynax/tea-combine/) by myself - it is weird but pretty usable though.
 
-# Ellie
+# Resources
 
-One can try the language or play with libraries inside [Ellie](https://ellie-app.com) - a sort of Paste Bin + Online IDE.
+- [Elm Cheat Sheet](https://lucamug.github.io/elm-cheat-sheet/)
+- [Ellie](https://ellie-app.com), a sort of Paste Bin + Online IDE.
 
 # Elm powered stuff
 
