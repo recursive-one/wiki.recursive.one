@@ -6,6 +6,7 @@
 
 - ["Docker Security Best Practices from the Dockerfile"](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
 - [lazydocker](https://github.com/jesseduffield/lazydocker), a nice TUI app for docker(-compose)
+- [awesome-compose](https://github.com/docker/awesome-compose), "These samples provide a starting point for how to integrate different services using a Compose file and to manage their deployment with [Docker Compose](https://docs.docker.com/compose/)."
 
 ## hadolint
 
