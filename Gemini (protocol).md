@@ -12,6 +12,8 @@ The full specification is available [here](https://gemini.circumlunar.space/docs
 
 `gemini://gemini.circumlunar.space` is an entry point to the Geminspace. To browse it you will need to have a **Gemini client**. But you can open any `gemini://` address within a Web-browser using some proxy server like [this](https://portal.mozz.us/gemini/gemini.circumlunar.space) or [that](https://proxy.vulpes.one/gemini/gemini.circumlunar.space).
 
+Alternatively, one can take a look to the [geminiquickst.art](https://geminiquickst.art/) site. It is the ultimate entry-point to the protocol: "why", "where", "how to" on a single page!
+
 Here are some clients:
 
 - [Castor](https://git.sr.ht/~julienxx/castor) written in [/Rust]()
