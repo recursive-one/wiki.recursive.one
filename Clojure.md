@@ -29,6 +29,7 @@ $ ls | bb -i '(take 2 *input*)'
 - [hiccup](https://github.com/weavejester/hiccup), a DSL for HTML templating
 - [Quil](http://quil.info/), a library for creating interactive drawings and animations (based on Processing)
 - [dali](https://github.com/stathissideris/dali), a hiccup-like DSL for creating the SVG graphics (also, dali can render SVG as PNG)
+- [aleph](https://aleph.io/) ([GitHub](https://github.com/clj-commons/aleph)), a library for client and server network programming with "stream" abstraction
 
 # Interesting projects
 
