@@ -35,7 +35,8 @@ $ ls | bb -i '(take 2 *input*)'
 
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard), a parametrized split keyboard (Clojure program defines the 3D model)
 - [Overtone](https://overtone.github.io/), an audio environment for music live-coding (I saw pretty impressive stuff made with it!)
-- [/asciinema](), a screen capture tool for your terminal.
+- [/asciinema](), a screen capture tool for your terminal
+- [/babashka](), a native, fast starting Clojure interpreter for scripting
 
 # My projects
 
