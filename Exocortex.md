@@ -26,6 +26,7 @@ Software:
 ### Resources
 
 - ["How to take smart notes: 10 pronciples to revolutionize your note-taking and writing"](https://fortelabs.co/blog/how-to-take-smart-notes), a quick intro to Zettelkasten and author's thoughts about the ["How to take smart notes"](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) book.
+- ["Living with a Zettelkasten"](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html).
 
 ## Outliners
 
