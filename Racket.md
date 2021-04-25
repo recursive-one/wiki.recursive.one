@@ -17,3 +17,8 @@ Also, there is a book ["Beautiful Racket"](https://beautifulracket.com/) just ab
 The Racket as a platform has a nice set of "batteries". For example, a really great set of libraries to work with graphics/animations/games. Here is a talk about this aspect: ["big-bang: the world, universe, and network in the programming language"](https://www.youtube.com/watch?v=ayoofXuKqMY). I have played with this stuff myself: made some pieces of *generative art*. You can take a look at them [here](https://astynax.neocities.org/daily-art/).
 
 Another thing in Racket world I played with is [/Pollen](): my [recursive.one](https://recursive.one) site was made using it.
+
+# Resources
+
+- ["Deploying Racket Web Apps"](https://defn.io/2020/06/28/racket-deployment/), a quick intro to `raco distribute` and to resource file handling
+- ["The Missing Guide to Racket's Web Server"](https://defn.io/2020/02/12/racket-web-server-guide/) + ["Continuations in Racket's Web Server"](https://defn.io/2020/05/11/racket-web-server-internals/)
