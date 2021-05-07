@@ -23,6 +23,10 @@ Another thing in Racket world I played with is [/Pollen](): my [recursive.one](h
 - ["Deploying Racket Web Apps"](https://defn.io/2020/06/28/racket-deployment/), a quick intro to `raco distribute` and to resource file handling
 - ["The Missing Guide to Racket's Web Server"](https://defn.io/2020/02/12/racket-web-server-guide/) + ["Continuations in Racket's Web Server"](https://defn.io/2020/05/11/racket-web-server-internals/)
 
+# Notable packages
+
+- [infix](https://docs.racket-lang.org/infix-manual/index.html), an infix notation as an eDSL.
+
 # Ecosystem
 
 - [RackSnaps](https://racksnaps.defn.io/) (an [announcement](https://defn.io/2020/05/03/ann-racksnaps/)), the simple way to lock all the packages (yep, the raco does not do that)
