@@ -12,6 +12,7 @@ categories: TODO
 
 # Resources
 
+- [CLiki](https://www.cliki.net/), "the Common Lisp Wiki"
 - ["A road to Common Lisp"](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - ["Writing Small CLI Programs in Common Lisp"](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 - [lisp-koans](https://github.com/google/lisp-koans), a "Common Lisp Koans"
