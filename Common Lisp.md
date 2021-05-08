@@ -14,3 +14,5 @@ categories: TODO
 
 - ["A road to Common Lisp"](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - ["Writing Small CLI Programs in Common Lisp"](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+- [lisp-koans](https://github.com/google/lisp-koans), a "Common Lisp Koans"
+- ["L-99: Ninety-Nine Lisp Problems"](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html)
