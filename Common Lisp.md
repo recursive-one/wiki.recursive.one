@@ -18,3 +18,4 @@ categories: TODO
 - [lisp-koans](https://github.com/google/lisp-koans), a "Common Lisp Koans"
 - ["L-99: Ninety-Nine Lisp Problems"](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html)
 - ["The Common Lisp Cookbook"](http://lispcookbook.github.io/cl-cookbook/)
+- [common-lisp-libraries.readthedocs.io](https://common-lisp-libraries.readthedocs.io/)
