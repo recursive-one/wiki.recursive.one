@@ -12,3 +12,37 @@ categories: TODO
 # Resources
 
 - ["Transitioning from Docker to Podman"](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
+
+# Cookbook
+
+## Kernel namespaces feature
+
+```bash
+echo 'kernel.unprivileged_userns_clone=1' | sudo tee /etc/sysctl.d/userns.conf
+```
+
+## Registries
+
+- `~/.config/containers/policy.json`
+
+    ```json
+    {
+        "default": [
+            {
+                "type": "insecureAcceptAnything"
+            }
+        ],
+        "transports":
+            {
+                "docker-daemon":
+                    {
+                        "": [{"type":"insecureAcceptAnything"}]
+                    }
+            }
+    }
+    ```
+- `~/.config/containers/registries.conf`
+
+    ```ini
+    unqualified-search-registries = ['docker.io']
+    ```
