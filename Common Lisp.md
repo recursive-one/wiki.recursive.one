@@ -2,9 +2,15 @@
 categories: TODO
 ...
 
-[Common Lisp](https://common-lisp.net/)
+<img src="https://common-lisp.net/static/imgs/lisplogo.png" alt="CL logo" style="float:left;margin-right:0.5em;width:64px;height:64px">
+
+[Common Lisp](https://common-lisp.net/) is an old but good language. It supports many paradigms and programming styles. That's why many of its proponents love the language: it perfectly fits their needs after some preparation! And because of that "fitness for everyone" every lisper uses its own kind of language. Even if all the CL users are saying that they use the one *common* language :)
+
+Recently I decided to play with [Common Lisp](https://common-lisp.net/) myself. And the feeling is pretty nice!
 
 # Software
+
+Emacs+Sly and SBCL are the "go-to" choice for me now!
 
 - [Steel Bank Common Lisp](http://www.sbcl.org/), a modern and effective implementation
 - [Sly](https://joaotavora.github.io/sly/) ([GitHub](https://github.com/joaotavora/sly)), a "Sylvester the Cat's Common Lisp IDE" for [/Emacs]()
@@ -13,8 +19,8 @@ categories: TODO
 
 - [Sketch](https://github.com/vydd/sketch), a "Common Lisp environment for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction and more"
 - [binding-arrows](https://github.com/phoe/binding-arrows/), "an implementation of threading macros based on binding anonymous variables", the [/Clojure]()'s `-<>>` macro and friends for CL
-- [metabang-bind](https://common-lisp.net/project/metabang-bind/index.html), a set of macroses for the uniform destructuring
-- [/FP]():
+- [metabang-bind](https://common-lisp.net/project/metabang-bind/index.html), a set of macros for the uniform destructuring
+- For the [/FP]() lovers:
   - [Modf](https://github.com/smithzvk/modf) macro with shallow copies and structure sharing
   - [FSet](https://github.com/slburson/fset), "a functional set-theoretic collections data structure library"
   - [trivia](https://github.com/guicho271828/trivia), "a pattern matching compiler". Works with FSet.
