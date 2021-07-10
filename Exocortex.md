@@ -20,13 +20,14 @@ Software:
 
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) for [/Emacs]()
 - [Zettr](https://www.zettlr.com/)
-- [Neuron Zettelkasten](https://neuron.zettel.page/), "a future-proof open-source app for managing your plain-text notes in Zettelkasten style", written in [/Haskell]().
+- [Neuron Zettelkasten](https://neuron.zettel.page/), "a future-proof open-source app for managing your plain-text notes in Zettelkasten style", written in [/Haskell]()
 - any notetaking app that supports crosslinking and tagging (Obsidian, Roam, Org mode...)
 
 ### Resources
 
-- ["How to take smart notes: 10 pronciples to revolutionize your note-taking and writing"](https://fortelabs.co/blog/how-to-take-smart-notes), a quick intro to Zettelkasten and author's thoughts about the ["How to take smart notes"](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) book.
-- ["Living with a Zettelkasten"](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html).
+- ["How to take smart notes: 10 pronciples to revolutionize your note-taking and writing"](https://fortelabs.co/blog/how-to-take-smart-notes), a quick intro to Zettelkasten and author's thoughts about the ["How to take smart notes"](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) book
+- ["Living with a Zettelkasten"](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
+- ["A curated list of awesome Public Zettelkastens/Second Brains/Digital Gardens"](https://github.com/KasperZutterman/Second-Brain)
 
 ## Outliners
 
