@@ -2,7 +2,7 @@
 
 <img src="https://racket-lang.org/img/racket-logo.svg" style="float: left; margin-right: 0.5em; width: 64px; height: 64px" alt="The Racket logo">
 
-[Racket](https://racket-lang.org/) is a dialect of [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), which is a member of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) family. The language is dynamically typed, multiparadigm, [/FP]() capable. Racket has an interactive REPL, a cross-platform compiler, even its own IDE, [Dr.Racket](https://docs.racket-lang.org/drracket/index.html).
+[Racket](https://racket-lang.org/) is a dialect of [/Scheme](), which is a member of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) family. The language is dynamically typed, multiparadigm, [/FP]() capable. Racket has an interactive REPL, a cross-platform compiler, even its own IDE, [Dr.Racket](https://docs.racket-lang.org/drracket/index.html).
 
 For now, the Racket team is [migrating](https://notamonadtutorial.com/rebuilding-the-racket-compiler-with-chez-scheme-210e23a69484) the language's core to the [Chez Scheme](https://www.scheme.com/) so Racket will be pretty fast someday!
 
