@@ -41,3 +41,14 @@ Sometimes I use MPV to play audio. Usually, MPV tries to display the album art i
 [default]
 audio-display=no
 ```
+
+## ytdl format
+
+MPV can play video-streams using the [YTDL](https://yt-dl.org/). But by default the highest quality will be chosen. I prefer to limit the quality to 720p (or less) so I have this in my config:
+
+```ini
+[default]
+ytdl-format=bestvideo[height<=?720]+bestaudio
+```
+
+More: ["MPV + youtube-dl: Stop Wasting Resources"](https://www.funkyspacemonkey.com/mpv-youtube-dl-stop-wasting-resources).
