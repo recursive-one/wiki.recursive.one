@@ -25,6 +25,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [HsLua](https://hackage.haskell.org/package/hslua), binding to [/Lua]() language. [Here](https://hslua.github.io/santas-little-lua-scripts.html) is a good intro and [here](https://github.com/hslua/hslua-examples) are nice examples of usage.
 - [QuickCheck](https://hackage.haskell.org/package/QuickCheck), the [famous](https://en.wikipedia.org/wiki/QuickCheck) property-based testing framework ([good intro](https://jesper.sikanda.be/posts/quickcheck-intro.html) to)
 - [tasty](https://github.com/feuerbach/tasty), a "Modern and extensible testing framework"
+- [Hspec](https://hackage.haskell.org/package/hspec), a testing framework with user friendly DSL (as they say) with hooks for setup/teardown ([see "Hspec Hooks"](https://www.parsonsmatt.org/2021/07/16/hspec_hooks.html))
 - [brick](https://hackage.haskell.org/package/brick), a declarative framework for building [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface)
 - [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
 - [/haskell/servant](), a framework for HTTP APIs
