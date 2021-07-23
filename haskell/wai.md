@@ -15,3 +15,4 @@ title: WAI, Web Application Interface
     - ...
 - [wai-middleware-static](https://hackage.haskell.org/package/wai-middleware-static) helps to serve static files
 - [scotty](https://hackage.haskell.org/package/scotty) is a [Sinatra](http://sinatrarb.com/)-like routing library
+- [wai-cli](https://hackage.haskell.org/package/wai-cli), a "command line runner for Wai apps". TLS, dev-logging, graceful shutdown.
