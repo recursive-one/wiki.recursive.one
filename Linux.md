@@ -16,6 +16,7 @@ My preferences:
 - `LCtrl` enables English layout
 - `RCtrl` enables Russian layout
 - `RAlt` switches to other layout *when pressed*
+- `PrtSc` works as the [Compose key](https://en.wikipedia.org/wiki/Compose_key)
 
 How to
 
@@ -26,7 +27,7 @@ How to
     XKBMODEL="pc105"
     XKBLAYOUT="us,ru"
     XKBVARIANT=","
-    XKBOPTIONS="ctrl:nocaps,grp:lctrl_rctrl_switch,grp:switch"
+    XKBOPTIONS="compose:prsc,ctrl:nocaps,grp:lctrl_rctrl_switch,grp:switch"
     ```
 
 2.
