@@ -6,7 +6,7 @@ categories: TODO
 
 [Common Lisp](https://common-lisp.net/) is an old but good language. It supports many paradigms and programming styles. That's why many of its proponents love the language: it perfectly fits their needs after some preparation! And because of that "fitness for everyone" every lisper uses its own kind of language. Even if all the CL users are saying that they use the one *common* language :)
 
-Recently I decided to play with [Common Lisp](https://common-lisp.net/) myself. And the feeling is pretty nice!
+Recently I decided to [play](https://github.com/astynax/cl-pokedex) with Common Lisp myself. And the feeling is pretty nice!
 
 # Software
 
