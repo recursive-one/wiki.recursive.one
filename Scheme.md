@@ -15,3 +15,4 @@ categories: TODO
 # Resources
 
 - [schemers.org](https://schemers.org/) a home base to the language community
+- ["An Introduction to Scheme and its Implementation" (CS345)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_toc.html)
