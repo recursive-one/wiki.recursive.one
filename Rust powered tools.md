@@ -37,7 +37,8 @@ These projects don't pose themselves as replacements for "good old Unix tools". 
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
 - [meli](https://github.com/meli/meli) — terminal email client
 - [rage](https://github.com/str4d/rage) — encryption tool
-- [ht](https://github.com/ducaale/ht) - "Yet another HTTPie clone". [HTTPie](https://httpie.io/) is a [/Python]() powered ["Swiss Army knife"](https://en.wikipedia.org/wiki/Swiss_Army_knife) for HTTP requests.
+- [ht](https://github.com/ducaale/ht) — "Yet another HTTPie clone". [HTTPie](https://httpie.io/) is a [/Python]() powered ["Swiss Army knife"](https://en.wikipedia.org/wiki/Swiss_Army_knife) for HTTP requests.
+- [gitui](https://github.com/extrawurst/gitui) — a neat [/TUI]() for the [/Git]().
 
 # Aliases
 
