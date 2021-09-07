@@ -39,7 +39,8 @@ Sometimes I just need to show a simple confirmation window or a text entry. In s
 
 Recently I found a nice set of tasks that are testing how your favorite GUI toolkit capable to do the real work. Here it is: ["7GUIs: A GUI Programming Benchmark"](https://eugenkiss.github.io/7guis/). My advice: just scroll through the list of tasks and look to the last ones! :)
 
-## Interesting stuff to try out
+## Interesting stuff to play with
 
 - [zserge/lorca](https://github.com/zserge/lorca), "Build cross-platform modern desktop apps in Go + HTML5" ([/Golang]())
 - [BeeWare](https://beeware.org/), "Write your apps in [/Python]() and release them on <...many platforms> using rich, native user interfaces."
+- [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear), "A single-header ANSI C immediate mode cross-platform GUI library" with [bindings](https://github.com/snuk182/nuklear-rust) for [/Rust]().
