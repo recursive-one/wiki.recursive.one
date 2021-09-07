@@ -25,6 +25,10 @@ Emacs+Sly and SBCL are the "go-to" choice for me now!
   - [FSet](https://github.com/slburson/fset), "a functional set-theoretic collections data structure library"
   - [trivia](https://github.com/guicho271828/trivia), "a pattern matching compiler". Works with FSet.
 
+# Lisp-powered software
+
+- [d2clone-kit](https://gitlab.com/lockie/d2clone-kit), an interesting attempt to recreate the [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II) action RPG in CL.
+
 # Resources
 
 - [CLiki](https://www.cliki.net/), "the Common Lisp Wiki"
