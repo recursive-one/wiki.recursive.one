@@ -37,3 +37,7 @@ Another thing in Racket world I played with is [/Pollen](): my [recursive.one](h
 
 - [RackSnaps](https://racksnaps.defn.io/) (an [announcement](https://defn.io/2020/05/03/ann-racksnaps/)), the simple way to lock all the packages (yep, the raco does not do that)
 - [Racket Templates](https://github.com/racket-templates), an "unofficial collection of racket app templates".
+
+# Need to play with
+
+- [racket-sdl2](https://github.com/lockie/racket-sdl2), a bindings to the [libsdl2(https://libsdl.org/)
