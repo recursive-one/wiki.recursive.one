@@ -19,3 +19,4 @@ categories: TODO
 - [Movies-Kotlin-Kata](https://github.com/xurxodev/Movies-Kotlin-Kata)
 - [ki](https://github.com/Kotlin/kotlin-interactive-shell), the Kotlin Language Interactive Shell
   - ["ki: The Next Interactive Shell for Kotlin"](https://blog.jetbrains.com/kotlin/2021/04/ki-the-next-interactive-shell-for-kotlin/)
+- [KTX](https://libktx.github.io/), a wrapper for the [LibGDX](https://libgdx.com/), a Java library for the [/gamedev]()
