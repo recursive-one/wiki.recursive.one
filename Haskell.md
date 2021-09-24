@@ -41,6 +41,10 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 
 - ["Learn You a Haskell" book](http://learnyouahaskell.com/) (free online version)
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell), "Learn Haskell basics in 4 pull requests"
+- Some small but good pieces:
+  - ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
+  - ["All about strictness"](https://www.fpcomplete.com/haskell/tutorial/all-about-strictness/): Haskell is lazy by default ad this article helps to deal with it when you need to
+  - ["How whitespace works in Haskell"](https://www.youtube.com/watch?v=uKpPJV0hhCY), a very useful intro into whitespace sensitive syntax of the language. A **must-watch** for the beginners
 
 # Haskell powered software
 
@@ -49,11 +53,9 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [Shellcheck](https://www.shellcheck.net/), a tool that finds bugs in your shell scripts
 - [hadolint](https://github.com/hadolint/hadolint), a `Dockerfile` (for [/Docker]()) linter
 
-# Nice to look at
+# Need to try
 
-- ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
-- ["All about strictness"](https://www.fpcomplete.com/haskell/tutorial/all-about-strictness/): Haskell is lazy by default ad this article helps to deal with it when you need to.
-- ["How whitespace works in Haskell"](https://www.youtube.com/watch?v=uKpPJV0hhCY), a very useful intro into whitespace sensitive syntax of the language. A **must-watch** for the beginners.
+- ["sydtest"](https://github.com/NorfairKing/sydtest), "A modern testing framework for Haskell with good defaults and advanced testing features"
 
 # Projects of mine
 
