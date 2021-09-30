@@ -12,7 +12,7 @@ categories: TODO
   - [MoonScript](https://moonscript.org/), "A programmer friendly language that compiles to Lua"
   - [Urn](https://urn-lang.com/), "A Lisp implementation for Lua" (dead?)
   - [Fennel](https://fennel-lang.org/), a "Lua Lisp language", [suits](https://github.com/whitecatboard/Lua-RTOS-ESP32/) for [/DIY/Electronics]()
-  - [...more](https://andregarzia.com/2020/06/languages-that-compile-to-lua.html)
+  - [Teal](https://github.com/teal-language/), "A typed dialect of Lua"
 - ...
 - [LuaRocks](https://luarocks.org/), "the package manager for Lua modules"
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua), of course
