@@ -11,6 +11,7 @@ categories: TODO
 - [Guile](https://www.gnu.org/software/guile/), "an extension language platform" and "and the official extension language of the [GNU project](https://gnu.org)". Was used to make the [Guix](https://guix.gnu.org/) [/Linux]() distribution
 - [Kawa](https://www.gnu.org/software/kawa/index.html), an extension of the R7RS standard of the Scheme language. Runs on JVM and has nice interoperability with the Java itself
 - [Biwa](https://www.biwascheme.org), a small implementation written in JavaScript. Runs inside the web browser, i.e. there is no transpilation!
+- [Lips.JS](https://lips.js.org/), a "powerful Scheme based lisp interpreter written in JavaScript" (yep, another one)
 
 # Resources
 
