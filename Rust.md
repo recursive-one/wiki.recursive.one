@@ -17,4 +17,4 @@ To have Rust installed one can use the [rustup](https://rustup.rs/) tool. It is 
 - [Tokio](https://tokio.rs/), "an asynchronous runtime for the Rust"
 - [hyper](https://hyper.rs/), "a fast HTTP implementation written in and for Rust"
 - [bevy](https://github.com/bevyengine/bevy), "A refreshingly simple data-driven game engine built in Rust" ([/gamedev]())
-
+- [miette](https://github.com/zkat/miette), " Fancy upgrade to std::error::Error"
