@@ -21,6 +21,7 @@ $ ls | bb -i '(take 2 *input*)'
 
 - [Leiningen](https://leiningen.org/), a popular all-in-one tool for project scaffolding, test running, dependency management
 - [nREPL](https://nrepl.org/), a "network REPL" (just keep in mind: Leiningen uses it implicitly)
+- [sublime-clojure](https://github.com/tonsky/sublime-clojure), the "Clojure support for [Sublime Text](http://www.sublimetext.com/) 4"
 
 # Notable libraries
 
