@@ -1,7 +1,3 @@
----
-categories: TODO
-...
-
 <img src="https://common-lisp.net/static/imgs/lisplogo.png" alt="CL logo" style="float:left;margin-right:0.5em;width:64px;height:64px">
 
 [Common Lisp](https://common-lisp.net/) is an old but good language. It supports many paradigms and programming styles. That's why many of its proponents love the language: it perfectly fits their needs after some preparation! And because of that "fitness for everyone" every lisper uses its own kind of language. Even if all the CL users are saying that they use the one *common* language :) That's because the [Lisp is cursed](http://www.winestockwebdesign.com/Essays/Lisp_Curse.html) (joke)!
