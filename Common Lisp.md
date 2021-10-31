@@ -39,3 +39,7 @@ Emacs+Sly and SBCL are the "go-to" choice for me now!
 - ["The Common Lisp Cookbook"](http://lispcookbook.github.io/cl-cookbook/)
 - [common-lisp-libraries.readthedocs.io](https://common-lisp-libraries.readthedocs.io/)
 - ["Comparison of Common Lisp Testing Frameworks"](https://sabracrolleton.github.io/testing-framework)
+
+# Tools
+
+- [40ants/setup-lisp](https://github.com/40ants/setup-lisp), a "GitHub Action to Setup Common Lisp tools"
