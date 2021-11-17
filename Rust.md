@@ -19,3 +19,4 @@ To have Rust installed one can use the [rustup](https://rustup.rs/) tool. It is 
 - [hyper](https://hyper.rs/), "a fast HTTP implementation written in and for Rust"
 - [bevy](https://github.com/bevyengine/bevy), "A refreshingly simple data-driven game engine built in Rust" ([/gamedev]())
 - [miette](https://github.com/zkat/miette), " Fancy upgrade to std::error::Error"
+- [egui](https://github.com/emilk/egui), "an easy-to-use immediate mode [/GUI]() in pure Rust", can run in [/WASM]()/WebGL capable Web-browser.
