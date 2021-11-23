@@ -35,6 +35,7 @@ Emacs+Sly and SBCL are the "go-to" choice for me now!
 - ["The Common Lisp Cookbook"](http://lispcookbook.github.io/cl-cookbook/)
 - [common-lisp-libraries.readthedocs.io](https://common-lisp-libraries.readthedocs.io/)
 - ["Comparison of Common Lisp Testing Frameworks"](https://sabracrolleton.github.io/testing-framework)
+- "[Survey](https://blog.matthewdmiller.net/series/survey-of-the-state-of-gui-programming-in-lisp) of the State of [/GUI]() Programming in Lisp" (not only about CL but also about [/Racket]()) 
 
 # Tools
 
