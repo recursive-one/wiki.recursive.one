@@ -21,6 +21,7 @@ Here are some clients:
 - [kristall](https://kristall.random-projects.net/), a cross-platform "Small-Internet Browser", supports Gopher and Finger too. 
 - [Deedum](https://github.com/snoe/deedum), a Gemini browser for [/Android]()
 - [diohsc](https://portal.mozz.us/gemini/gemini.thegonz.net/diohsc/), a terminal client written in [/Haskell]()
+- [Wobbly](https://warmedal.se/~wobbly/), a Web-based proxy/client, small but nice!
 
 Many pieces of Gemini-related software are listed [here](https://portal.mozz.us/gemini/gemini.circumlunar.space/software/). Also, one can always look at [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) repo.
 
