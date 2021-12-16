@@ -40,6 +40,13 @@ These projects don't pose themselves as replacements for "good old Unix tools". 
 - [ht](https://github.com/ducaale/ht) — "Yet another HTTPie clone". [HTTPie](https://httpie.io/) is a [/Python]() powered ["Swiss Army knife"](https://en.wikipedia.org/wiki/Swiss_Army_knife) for HTTP requests.
 - [gitui](https://github.com/extrawurst/gitui) — a neat [/TUI]() for the [/Git]().
 
+## Editors
+
+Yep, editor building is a pretty popular theme for the hobby projects. There are some:
+
+- [Xi-Editor](), dead but good. Was the first one of the kind and still gives the inspiration for new projects.
+- [Lapce](https://github.com/lapce/lapce), a pretty new one. Proposes a [/WASI]() based plugin system!
+
 # Aliases
 
 Some (most?) of the mentioned tools are designed as "drop-in" replacements for the corresponding programs. That's why you can add some aliases to your shell and keep the muscle memory:
