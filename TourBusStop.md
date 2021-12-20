@@ -1,9 +1,10 @@
 ---
-categories: TODO
 toc: no
 ...
 
 # Tour Bus Stop
+
+![](http://www.wikiservice.at/image/wikibus.gif)
 
 This is a small personal Wiki by [/who/astynax]() (and, sometimes, [/who/histrio]())
 
