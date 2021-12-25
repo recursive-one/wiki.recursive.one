@@ -72,7 +72,7 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell), "Learn Haskell basics in 4 pull requests"
 - Some small but good pieces:
   - ["Haskell with UTF-8"](https://serokell.io/blog/haskell-with-utf8), a proper way to handle IO with Unicode
-  - ["All about strictness"](https://www.fpcomplete.com/haskell/tutorial/all-about-strictness/): Haskell is lazy by default ad this article helps to deal with it when you need to
+  - ["All about strictness"](https://www.fpcomplete.com/haskell/tutorial/all-about-strictness/): Haskell is lazy by default ad this article helps to deal with it when you need to. And this is a good addition: ["Make invalid laziness unreprezentable"](http://h2.jaguarpaw.co.uk/posts/make-invalid-laziness-unrepresentable/)
   - ["How whitespace works in Haskell"](https://www.youtube.com/watch?v=uKpPJV0hhCY), a very useful intro into whitespace sensitive syntax of the language. A **must-watch** for the beginners
 
 # Haskell powered software
