@@ -43,4 +43,7 @@ Recently I found a nice set of tasks that are testing how your favorite GUI tool
 
 - [zserge/lorca](https://github.com/zserge/lorca), "Build cross-platform modern desktop apps in Go + HTML5" ([/Golang]())
 - [BeeWare](https://beeware.org/), "Write your apps in [/Python]() and release them on <...many platforms> using rich, native user interfaces."
-- [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear), "A single-header ANSI C immediate mode cross-platform GUI library" with [bindings](https://github.com/snuk182/nuklear-rust) for [/Rust]().
+- [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear), "A single-header ANSI C immediate mode cross-platform GUI library" with [bindings](https://github.com/snuk182/nuklear-rust) for [/Rust]()
+- [libui](https://github.com/andlabs/libui), "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports."
+  - [bindings](https://github.com/msink/kotlin-libui) for [/Kotlin]()/Native.
+  - [bindings](https://github.com/andlabs/ui) for [/Golang]()
