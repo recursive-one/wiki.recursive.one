@@ -28,6 +28,7 @@ Software:
 - ["How to take smart notes: 10 pronciples to revolutionize your note-taking and writing"](https://fortelabs.co/blog/how-to-take-smart-notes), a quick intro to Zettelkasten and author's thoughts about the ["How to take smart notes"](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) book
 - ["Living with a Zettelkasten"](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
 - ["A curated list of awesome Public Zettelkastens/Second Brains/Digital Gardens"](https://github.com/KasperZutterman/Second-Brain)
+- ["A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space"](https://github.com/brettkromkamp/awesome-knowledge-management)
 
 ## Outliners
 
