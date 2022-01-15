@@ -21,3 +21,4 @@ The whole RPi idea is quite popular. So, there are many "clones" like [Orange Pi
 # Pi-hosted software
 
 - [DIY-IPMI](https://github.com/Fmstrat/diy-ipmi), "A DIY IPMI / IP KVM system utilizing the Raspberry Pi"
+- [Lakka](http://lakka.tv/), "a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console."
