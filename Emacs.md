@@ -49,3 +49,4 @@ Also, you can edit the config using "quick mode": `emacs -q .emacs` or `emacs -Q
 # Resources
 
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+- [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch), "An example of a fully custom Emacs configuration developed live on YouTube!"
