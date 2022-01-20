@@ -47,3 +47,37 @@ OpenGL renderer string: AMD HAINAN ...
 $ # a-ha!
 $ DRI_PRIME=1 ./game
 ```
+
+### Customizing `xdg-open`
+
+Example of .desktop file (put in `~/.local/share/applications`):
+
+```ini
+[Desktop Entry]
+Version=1.0
+Name=GNU Emacs (GUI)
+GenericName=Text Editor
+Comment=GNU Emacs is an extensible, customizable text editor - and more
+MimeType=text/english;text/plain;text/x-makefile;text/x-c++hdr;text/x-c++src;text/x-chdr;text/x-csrc;text/x-java;text/x-moc;text/x-pascal;text/x-tcl;text/x-tex;application/x-shellscript;text/x-c;text/x-c++;
+Exec=/usr/bin/emacsclient -c %F
+Icon=emacs25
+Type=Application
+Terminal=false
+Categories=Utility;Development;TextEditor;
+StartupWMClass=Emacs
+Keywords=Text;Editor;
+```
+
+How to get the type:
+
+```shell
+$ mimetype foo.jpg
+```
+
+How to associate app (its .desktop file) with type:
+
+```shell
+$ xdg-mime default imv.desktop image/jpeg
+```
+
+([source](https://200ok.ch/posts/2022-01-12_configuring_default_applications_for_xdg_open.html))
