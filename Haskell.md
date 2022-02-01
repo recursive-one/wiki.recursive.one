@@ -13,37 +13,7 @@ I use [ghcup](https://www.haskell.org/ghcup/) to get the [GHC compiler](https://
 
 > Sometimes HLS wants you to do some preparation if you are planning to use it with your projects. Usually, all you need is `hie.yaml` containing this "`cradle: {cabal: {}}`". For more info go to docs for [hie-bios](https://github.com/mpickering/hie-bios#cabal).
 
-In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but nowadays I'm glad to use the Cabal. Someday, I may adopt the [/Nix (package manager)]() as a more predictable alternative/companion for Cabal.
-
-## Self-describing Haskell scripts
-
-- [Cabal-based](https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run)
-  ```haskell
-  #!/usr/bin/env cabal
-  {- cabal:
-  build-depends: base, type-level-sets
-  -}
-  main = pure ()
-  ```
-- [Stack-based](https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter)
-  ```haskell
-  #!/usr/bin/env stack
-  {- stack
-    script
-    --resolver lts-14.20
-    --package turtle
-    --package "stm async"
-    --package http-client,http-conduit
-  -}
-  main = pure ()
-  ```
-- [Nix-based](https://nixos.org/manual/nix/stable/command-ref/nix-shell.html#use-as-a--interpreter) ([+](http://chriswarbo.net/projects/nixos/nix_shell_shebangs.html))
-  ```haskell
-  #!/usr/bin/env nix-shell
-  #!nix-shell -i runghc -p "haskellPackages.ghcWithPackages(p: with p; [type-level-sets])"
-  #!nix-shell -I nixpkgs=channel:nixos-18.03
-  main = pure ()
-  ```
+In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but nowadays I'm glad to use the Cabal. Someday, I may adopt the [/Nix (package manager)]() as a more predictable alternative/companion for Cabal. Stack, Cabal & Nix are able to run [/Haskell/scripts]()
 
 # Parsing & stuff
 
