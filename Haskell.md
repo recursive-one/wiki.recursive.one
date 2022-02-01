@@ -44,6 +44,11 @@ In the past, I preferred the [Stack](https://docs.haskellstack.org) tool but now
   #!nix-shell -I nixpkgs=channel:nixos-18.03
   main = pure ()
   ```
+
+# Parsing & stuff
+
+The ML-like languages are very good for parsing and text processing. A bunch of languages like [/Elm](), [/PureScript](), [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) are implemented in Haskell. Some languages are using parser combinators ([Parsec](https://hackage.haskell.org/package/parsec), [Megaparsec](https://hackage.haskell.org/package/megaparsec)), other ones are using [/alex and happy]().
+
 # Notable packages
 
 - [/Turtle (library)](), a shell scripting toolkit
