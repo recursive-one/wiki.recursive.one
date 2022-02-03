@@ -1,5 +1,6 @@
 ---
 title: GNU Emacs
+categories: emacs
 ...
 
 <img src="https://www.gnu.org/software/emacs/images/emacs.png" style="float: right; margin-left: 0.5em; width: 64px;" alt="Orgmode logo">
