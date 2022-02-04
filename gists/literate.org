@@ -1,0 +1,62 @@
+#+TITLE: Literate Programming example
+#+AUTHOR: astynax
+#+OPTIONS: email:nil num:nil
+#+EXPORT_FILE_NAME: index.html
+
+* About
+Let's try to make a multi-file project from a single LP document!
+
+* Sources
+:PROPERTIES:
+:header-args: :mkdirp yes :noweb yes :exports code :eval never :cache nil
+:END:
+#+BEGIN_COMMENT
+Strangely, ~:noweb tangle~ doesn't expand NoWeb blocks recursively so I used ~:noweb yes~ even if I won't plan to eval anything ~:(~
+#+END_COMMENT
+
+** Python package
+Our program will be very simple, it will just
+
+#+NAME: greeting-message
+#+BEGIN_SRC python
+print("Hello world!")
+#+END_SRC
+
+But we want it to be a proper Python package. So we need a directory ~app/~ with ~__init__.py~ in it. In this file we will put the future [[*Main function][main function]].
+
+#+BEGIN_SRC python :tangle app/__init__.py
+"""A cool Python app."""
+
+<<main-function>>
+#+END_SRC
+
+*** Entrypoint
+If we want to be able to run our package as a program we should provide an entry point. Like a ~__main__.py~ module inside the package. Here is our entry point:
+
+#+BEGIN_SRC python :tangle app/__main__.py
+from . import main
+
+main()
+#+END_SRC
+
+#+begin_quote
+*Note*: It is a good practice to do only imports and calls inside the ~__main__.py~!
+#+end_quote
+
+*** Main function
+Now we ready to define the main function:
+
+#+NAME: main-function
+#+BEGIN_SRC python
+def main():
+    <<greeting-message>>
+#+END_SRC
+
+** Makeflie
+To run package properly we should call a Python interpreter with ~-m app~ option. Let's persist this knowledge inside a simple Makefile:
+
+#+BEGIN_SRC makefile :tangle Makefile
+.PHONY: run
+run:
+	@python3 -m app
+#+END_SRC
