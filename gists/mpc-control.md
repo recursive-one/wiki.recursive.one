@@ -3,7 +3,7 @@ title: MPD-controlling GUI in Emacs
 categories: emacs,mpd
 ...
 
-Someday I wanted to play with [/Emacs]() widgets and make a simple application. I decided to make a remote control for the [/mpd]() by wrapping a couple of [mpc](https://musicpd.org/clients/mpc/) calls.
+One day I wanted to play with [/Emacs]() widgets and make a simple application. I decided to make a remote control for the [/mpd]() by wrapping a couple of [mpc](https://musicpd.org/clients/mpc/) calls.
 
 Here is a interface part of the code (subprocess-calling part was to trivial to save it):
 
