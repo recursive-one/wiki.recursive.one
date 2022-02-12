@@ -1,3 +1,7 @@
+---
+toc: no
+...
+
 # SOCKS5 proxy over SSH
 
 ```shell
