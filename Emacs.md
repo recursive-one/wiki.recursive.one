@@ -51,3 +51,7 @@ Also, you can edit the config using "quick mode": `emacs -q .emacs` or `emacs -Q
 
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 - [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch), "An example of a fully custom Emacs configuration developed live on YouTube!"
+
+# Links
+
+- [YouTube: Conquering Kubernetes with Emacs](https://www.youtube.com/watch?v=w3krYEeqnyk), a great talk about using of [tabulated-list-mode](https://www.gnu.org/software/emacs/manual/html_node/elisp/Tabulated-List-Mode.html) and [transient commands](https://github.com/magit/transient).
