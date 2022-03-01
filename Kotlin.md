@@ -9,6 +9,8 @@ categories: TODO
 
 - [ktor](https://ktor.io/)
 - [arrow-kt](https://arrow-kt.io/)
+- [jqwik](https://jqwik.net/), "Property-Based Testing in Java" but [suits for Kotlin too](https://johanneslink.net/property-based-testing-in-kotlin/)
+
 
 # Resources
 
