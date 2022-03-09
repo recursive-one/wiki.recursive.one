@@ -15,7 +15,7 @@ Here I have written my experience in doing such stuff.
 
 ## Tck/Tk
 
-I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a lot with its GUI toolkit, the [Tk](https://en.wikipedia.org/wiki/Tk_(software)). Usually it were the [Tkinter](https://docs.python.org/3/library/tkinter.html) for [/Python]() or [uni-htk](https://hackage.haskell.org/package/uni-htk) for [/Haskell](). Tk is pretty simple to use, lightweight, and "just works" on many platforms.
+I didn't use the [Tcl](https://en.wikipedia.org/wiki/Tcl) itself but I played a lot with its GUI toolkit, the [Tk](https://en.wikipedia.org/wiki/Tk_(software)). Usually it were the [Tkinter](https://docs.python.org/3/library/tkinter.html) for [/Python]() or [uni-htk](https://hackage.haskell.org/package/uni-htk) for [/Haskell](). Tk is pretty simple to use, lightweight, and "just works" on many platforms. And it also [can look good](https://github.com/rdbende/Sun-Valley-ttk-theme)!
 
 Here is a nice but opinionated article about Tkinter: ["How to setup correctly an application with Python and Tkinter"](https://medium.com/@mattia512maldini/how-to-setup-correctly-an-application-with-python-and-tkinter-107c6bc5a45)
 
