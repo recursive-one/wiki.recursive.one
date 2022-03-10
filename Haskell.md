@@ -34,6 +34,7 @@ The ML-like languages are very good for parsing and text processing. A bunch of 
 - [/haskell/wai](), the Web Application Interface that helps you to build the Web-apps
 - [/haskell/servant](), a framework for HTTP APIs
 - [arduino-copilot](https://hackage.haskell.org/package/arduino-copilot), an "Arduino programming in [/Haskell]() using the [Copilot](https://copilot-language.github.io/) stream DSL"
+  - [zephyr-copilot](https://hackage.haskell.org/package/zephyr-copilot), an "Embedded programming in haskell using the Copilot stream DSL and [Zephyr](https://zephyrproject.org/)"
 
 # Resources
 
