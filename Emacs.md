@@ -21,7 +21,7 @@ Alternatively, one can use [straight.el](https://github.com/raxod502/straight.el
 
 One can use Emacs as a general purpose scripting language.
 
-For example, one can integrate [emacs-server](https://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html), [/rofi]() & [/mpv]() to listen Internet-radio and be able to choose a station using GUI. Cool stuff!
+For example, one can integrate [emacs-server](https://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html), [/Rofi]() & [/mpv]() to listen Internet-radio and be able to choose a station using GUI. Cool stuff!
 
 # Org mode
 
