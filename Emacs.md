@@ -17,11 +17,11 @@ The capstone of my config is the [use-package](https://github.com/jwiegley/use-p
 
 Alternatively, one can use [straight.el](https://github.com/raxod502/straight.el) to install packages from their sources. This is even more "declarative and predictable" way to manage packages but I did'n  try it yet.
 
-# Emacs-scripting
+# Shell scripting
 
 One can use Emacs as a general purpose scripting language.
 
-For example, one can integrate [emacs-server](https://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html), [/Rofi]() & [/mpv]() to listen Internet-radio and be able to choose a station using GUI. Cool stuff!
+For example, one can integrate [emacs-server](https://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html), [/Rofi]() & [/mpv]() to listen Internet-radio and be able to choose a station using GUI — [cool stuff](https://isamert.net/2022/03/16/global-interactive-emacs-functions.html)!
 
 # Org mode
 
