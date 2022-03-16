@@ -13,7 +13,15 @@ You can find it [here](https://github.com/astynax/dotfiles/blob/master/.emacs) w
 
 # use-package
 
-The capstone of my config is the [use-package](https://github.com/jwiegley/use-package): this package configures all other packages and even downloads them if some of it isn't present in the system.
+The capstone of my config is the [use-package](https://github.com/jwiegley/use-package): this package configures all other packages and even downloads them if some of them aren't present in the system yet.
+
+Alternatively, one can use [straight.el](https://github.com/raxod502/straight.el) to install packages from their sources. This is even more "declarative and predictable" way to manage packages but I did'n  try it yet.
+
+# Emacs-scripting
+
+One can use Emacs as a general purpose scripting language.
+
+For example, one can integrate [emacs-server](https://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html), [/rofi]() & [/mpv]() to listen Internet-radio and be able to choose a station using GUI. Cool stuff!
 
 # Org mode
 
