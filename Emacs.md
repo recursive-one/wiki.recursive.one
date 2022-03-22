@@ -63,3 +63,4 @@ Also, you can edit the config using "quick mode": `emacs -q .emacs` or `emacs -Q
 # Links
 
 - [YouTube: Conquering Kubernetes with Emacs](https://www.youtube.com/watch?v=w3krYEeqnyk), a great talk about using of [tabulated-list-mode](https://www.gnu.org/software/emacs/manual/html_node/elisp/Tabulated-List-Mode.html) and [transient commands](https://github.com/magit/transient).
+- [LibrePlanet 2022: Living in freedom with GNU Emacs](https://protesilaos.com/codelog/2022-03-22-libreplanet-emacs-living-freedom/), a nice talk about Emacs and software freedom.
