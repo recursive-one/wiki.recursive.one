@@ -12,6 +12,7 @@ To have Rust installed one can use the [rustup](https://rustup.rs/) tool. It is 
 - ["Make A Language"](https://arzg.github.io/lang/), a series about making the language
 - ["Async Rust: Futures, Tasks, Wakers; Oh My!"](https://msarmi9.github.io/posts/async-rust/)
 - ["Type-Driven API Design in Rist"](https://www.youtube.com/watch?v=bnnacleqg6k) (YouTube)
+- ["The Embedded Rust Book"](https://docs.rust-embedded.org/book/)
 
 # Notable crates
 
