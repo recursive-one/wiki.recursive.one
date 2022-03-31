@@ -21,7 +21,8 @@ Also, some of the mentioned tools could be installed using [/asdf]() or [/Nix (p
 - [just](https://github.com/casey/just) — very simple alternative to [/GNU Make]()
 - [du-dust](https://github.com/bootandy/dust) — more intuitive version of *du(1)* in rust
 - [procs](https://github.com/dalance/procs) — modern replacement for *ps(1)*
-- [skim](https://github.com/lotabout/skim) - [fzf](https://github.com/junegunn/fzf)-like [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching) search and selection tool
+- [skim](https://github.com/lotabout/skim) — an [fzf](https://github.com/junegunn/fzf)-like [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching) search and selection tool
+- [difftastic](https://difftastic.wilfred.me.uk/) — a syntax-aware replacement for `git diff`, can be easily integrated with [/git]()
 
 # Not-so-replacements
 
