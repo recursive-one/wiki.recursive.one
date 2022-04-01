@@ -39,7 +39,8 @@ These projects don't pose themselves as replacements for "good old Unix tools". 
 - [meli](https://github.com/meli/meli) — terminal email client
 - [rage](https://github.com/str4d/rage) — encryption tool
 - [ht](https://github.com/ducaale/ht) — "Yet another HTTPie clone". [HTTPie](https://httpie.io/) is a [/Python]() powered ["Swiss Army knife"](https://en.wikipedia.org/wiki/Swiss_Army_knife) for HTTP requests.
-- [gitui](https://github.com/extrawurst/gitui) — a neat [/TUI]() for the [/Git]().
+- [gitui](https://github.com/extrawurst/gitui) — a neat [/TUI]() for the [/Git]()
+- [miniserve](https://github.com/svenstaro/miniserve) — a "[/CLI]() tool to serve files and dirs over HTTP"
 
 ## Editors
 
