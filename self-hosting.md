@@ -20,3 +20,4 @@
 # Need to take a look (TODO)
 
 - [funkwhale](https://funkwhale.audio/), "is a community-driven project that lets you listen and share music and audio within a decentralized, open network."
+- ["Selfhosting with Odroid XU4 CloudShell2"](https://electro.pizza/2020/05/selfhosting-cloudshell2/), using a [/Raspberry Pi]() clone as a personal cloud.
