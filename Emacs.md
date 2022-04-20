@@ -63,6 +63,7 @@ Also, you can edit the config using "quick mode": `emacs -q .emacs` or `emacs -Q
 ## Configs
 
 - Such a beauty: [https://alhassy.github.io/emacs.d/](https://alhassy.github.io/emacs.d/)
+- [Sacha Chua's Emacs configuration](https://sachachua.com/dotemacs/)
 
 ## Sources of inspiration
 
