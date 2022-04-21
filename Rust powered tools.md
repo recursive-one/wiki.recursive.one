@@ -36,6 +36,7 @@ These projects don't pose themselves as replacements for "good old Unix tools". 
 - [autojump](https://github.com/xen0n/autojump-rs) — port of the wildly popular helper application [autojump](https://github.com/wting/autojump)
 - [bb](https://github.com/epilys/bb) — simple process viewer
 - [git-delta](https://github.com/dandavison/delta) — viewer for git and diff output
+- [dura](https://github.com/tkellogg/dura) — "a background process that watches your Git repositories and commits your uncommitted changes without impacting HEAD, the current branch, or the Git index"
 - [meli](https://github.com/meli/meli) — terminal email client
 - [rage](https://github.com/str4d/rage) — encryption tool
 - [ht](https://github.com/ducaale/ht) — "Yet another HTTPie clone". [HTTPie](https://httpie.io/) is a [/Python]() powered ["Swiss Army knife"](https://en.wikipedia.org/wiki/Swiss_Army_knife) for HTTP requests.
