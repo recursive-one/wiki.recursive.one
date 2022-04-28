@@ -8,6 +8,7 @@ title: Text-based User Interface
 
 - [/haskell/brick](), the TUI framework for [/Haskell]()
 - [bubbletea](https://github.com/charmbracelet/bubbletea/), "A powerful little TUI framework" for [/Golang]() based on The [/Elm]() Architecture
+- [Textualize](https://www.textualize.io/), a modern TUI framework for [/Python]() 
 
 # Articles
 
