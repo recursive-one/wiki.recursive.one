@@ -31,6 +31,7 @@ $ ls | bb -i '(take 2 *input*)'
 - [Quil](http://quil.info/), a library for creating interactive drawings and animations (based on Processing)
 - [dali](https://github.com/stathissideris/dali), a hiccup-like DSL for creating the SVG graphics (also, dali can render SVG as PNG)
 - [aleph](https://aleph.io/) ([GitHub](https://github.com/clj-commons/aleph)), a library for client and server network programming with "stream" abstraction
+- [re-frame](https://github.com/Day8/re-frame). "re-frame is a ClojureScript framework for building user interfaces. It has a data-oriented, functional design. Its primary focus is on high programmer productivity and scaling up to larger Single-Page applications."
 
 # Interesting projects
 
