@@ -24,6 +24,8 @@ Also, some of the mentioned tools could be installed using [/asdf]() or [/Nix (p
 - [skim](https://github.com/lotabout/skim) — an [fzf](https://github.com/junegunn/fzf)-like [fuzzy matching](https://www.techopedia.com/definition/24183/fuzzy-matching) search and selection tool
 - [difftastic](https://difftastic.wilfred.me.uk/) — a syntax-aware replacement for `git diff`, can be easily integrated with [/git]()
 
+[Another](https://github.com/ibraheemdev/modern-unix) list of such stuff.
+
 # Not-so-replacements
 
 These projects don't pose themselves as replacements for "good old Unix tools". But they also are built using Rust and we found it interesting :)
