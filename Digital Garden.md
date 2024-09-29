@@ -16,3 +16,4 @@ Usually, DG consists of the Garden itself and the Stream. The Stream *has* a tim
 # Examples
 
 - [Blue Dot's Digital Garden](https://bluedot.neocities.org/garden/), a nice example of a "handmade" garden. The content itself isn't that interesting but the "Garden Script" ([/Python]()) looks fun!
+- [https://agnessa.pp.ru/]() (ru) It is more like a personal Wiki than a Garden, but it inspires me and remembers that I do want to garden more!
